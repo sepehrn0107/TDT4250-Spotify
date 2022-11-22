@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" name="ecoreA1" nsURI="http://www.example.org/ecoreA1" nsPrefix="ecoreA1">
+  <eAnnotations source="http://www.eclipse.org/emf/2002/Ecore">
+    <details key="validationDelegates" value="http://www.eclipse.org/emf/2002/Ecore/OCL"/>
+  </eAnnotations>
+  <eClassifiers xsi:type="ecore:EClass" name="Listing" abstract="true">
+    <eAnnotations source="http://www.eclipse.org/emf/2002/Ecore">
+      <details key="constraints" value="PriceNotNegative BuyerNotSeller"/>
+    </eAnnotations>
+    <eAnnotations source="http://www.eclipse.org/emf/2002/Ecore/OCL">
+      <details key="PriceNotNegative" value="self.Price > 0 "/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="ID" ordered="false" lowerBound="1"
+        eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt" changeable="false"
+        iD="true"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Title" ordered="false"
+        unique="false" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Description" unique="false"
+        eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Price" unique="false" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Modified_At" ordered="false"
+        unique="false" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EDate"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Coordinate" unique="false"
+        lowerBound="2" upperBound="2" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EDouble"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="user" ordered="false" unique="false"
+        lowerBound="1" eType="#//User" eOpposite="#//User/listing"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="BikeListing" eSuperTypes="#//Listing">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="BikeType" unique="false"
+        lowerBound="1" eType="#//BikeType"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Condition" unique="false"
+        lowerBound="1" eType="#//Condition"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="User" abstract="true">
+    <eAnnotations source="http://www.eclipse.org/emf/2002/Ecore">
+      <details key="constraints" value="CorrectPhoneNumber"/>
+    </eAnnotations>
+    <eAnnotations source="http://www.eclipse.org/emf/2002/Ecore/OCL">
+      <details key="CorrectPhoneNumber" value="self.Phone.size() = 8"/>
+      <details key="BuyerNotSeller" value="self.Email &lt;> "/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Email" ordered="false"
+        lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Phone" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" ordered="false" unique="false"
+        lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="listing" ordered="false"
+        upperBound="-1" eType="#//Listing" changeable="false" eOpposite="#//Listing/user"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="buys" ordered="false" upperBound="-1"
+        eType="#//Listing"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="BikeType">
+    <eLiterals name="Terrain"/>
+    <eLiterals name="Hybrid" value="1"/>
+    <eLiterals name="Electric" value="2"/>
+    <eLiterals name="BMX" value="3"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="Condition">
+    <eLiterals name="New"/>
+    <eLiterals name="Used" value="1"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="ClothesListing" eSuperTypes="#//Listing">
+    <eAnnotations source="http://www.eclipse.org/emf/2002/Ecore">
+      <details key="constraints" value="sizeCorrect"/>
+    </eAnnotations>
+    <eAnnotations source="http://www.eclipse.org/emf/2002/Ecore/OCL">
+      <details key="sizeCorrect" value="self.Size.size() &lt; 5"/>
+    </eAnnotations>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Size" ordered="false" unique="false"
+        eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Type" ordered="false" unique="false"
+        lowerBound="1" eType="#//ClothesType"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Condition" eType="#//Condition"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="ClothesType">
+    <eLiterals name="Jacket"/>
+    <eLiterals name="Pants" value="1"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Finn">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="user" upperBound="-1" eType="#//User"
+        containment="true"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="listing" upperBound="-1"
+        eType="#//Listing" containment="true"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="ElectronicListing" abstract="true" eSuperTypes="#//Listing">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Condition" lowerBound="1"
+        eType="#//Condition"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Brand" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="SportListing" eSuperTypes="#//Listing">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Condition" lowerBound="1"
+        eType="#//Condition"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="SportType" lowerBound="1"
+        eType="#//SportType"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="PetListing" eSuperTypes="#//Listing">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Species" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="PetType" eType="#//PetType"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="CameraListing" eSuperTypes="#//ElectronicListing">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="CameraType" unique="false"
+        lowerBound="1" eType="#//CameraTypes"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="PhoneListing" eSuperTypes="#//ElectronicListing">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="PhoneType" lowerBound="1"
+        eType="#//PhoneType"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="CameraTypes">
+    <eLiterals name="Hybrid"/>
+    <eLiterals name="Compact" value="1"/>
+    <eLiterals name="Lense" value="2"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="PhoneType">
+    <eLiterals name="Iphone"/>
+    <eLiterals name="Android" value="1"/>
+    <eLiterals name="Other" value="2"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="SportType">
+    <eLiterals name="BallGame"/>
+    <eLiterals name="Swimming" value="1"/>
+    <eLiterals name="Track" value="2"/>
+    <eLiterals name="Accessories" value="3"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="PetType">
+    <eLiterals name="Dog"/>
+    <eLiterals name="Cat" value="1"/>
+    <eLiterals name="Bird" value="2"/>
+    <eLiterals name="Rodent" value="3"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="PrivateUser" eSuperTypes="#//User">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="Favorites" upperBound="-1"
+        eType="#//Listing"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="DateOfBirth" unique="false"
+        lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EDate"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Gender" unique="false"
+        lowerBound="1" eType="#//GenderType"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="CompanyUser" eSuperTypes="#//User">
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Website" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EEnum" name="GenderType">
+    <eLiterals name="Male"/>
+    <eLiterals name="Female" value="1"/>
+    <eLiterals name="Other" value="2"/>
+  </eClassifiers>
+</ecore:EPackage>

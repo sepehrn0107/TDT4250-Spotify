@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecoreA1:Finn
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecoreA1="http://www.example.org/ecoreA1"
+    xsi:schemaLocation="http://www.example.org/ecoreA1 ecoreA1.ecore">
+  <user xsi:type="ecoreA1:PrivateUser"
+      Email="geir@gmail.com"
+      Phone="12345678"
+      Name="Geir"
+      listing="//@listing.0 //@listing.3 //@listing.4 //@listing.8 //@listing.9 //@listing.13 //@listing.17"
+      DateOfBirth="0199-01-05T00:00:00.000+0100"/>
+  <user xsi:type="ecoreA1:PrivateUser"
+      Email="Ola@hotmail.com"
+      Phone="23456789"
+      Name="Ola"
+      listing="//@listing.11 //@listing.12"
+      DateOfBirth="1985-05-23T00:00:00.000+0200"/>
+  <user xsi:type="ecoreA1:PrivateUser"
+      Email="marte@yahoo.com"
+      Phone="34567890"
+      Name="Marte"
+      listing="//@listing.1 //@listing.7 //@listing.10 //@listing.14"
+      DateOfBirth="2002-09-08T00:00:00.000+0200"
+      Gender="Female"/>
+  <user xsi:type="ecoreA1:CompanyUser"
+      Email="bruktmobil@bb.no"
+      Phone="55667788"
+      Name="Bruktmobil AS"
+      listing="//@listing.15 //@listing.16"
+      Website="www.bruktmobil.no"/>
+  <user xsi:type="ecoreA1:CompanyUser"
+      Email="info@sportsenter.no"
+      Phone="22334455"
+      Name="Sportsenter"
+      listing="//@listing.2 //@listing.5 //@listing.6"
+      Website="sportsenter.no"/>
+  <listing xsi:type="ecoreA1:BikeListing"
+      Title="TerrengSykkel"
+      Price="300"
+      user="//@user.0">
+    <Coordinate>23.0</Coordinate>
+    <Coordinate>45.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:BikeListing"
+      Title="Hybridsykkel til salgs"
+      Description="Hybridsykkel selges grunnet lite bruk"
+      Price="5000"
+      Modified_At="2022-10-24T00:00:00.000+0200"
+      user="//@user.2"
+      BikeType="Hybrid"
+      Condition="Used">
+    <Coordinate>66.0</Coordinate>
+    <Coordinate>89.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:BikeListing"
+      Title="Elsykkel til salgs"
+      Description="Ny elektrisk sykkel fra DFG til salgs. 22 tommer"
+      Price="14000"
+      Modified_At="2022-10-14T00:00:00.000+0200"
+      user="//@user.4"
+      BikeType="Electric">
+    <Coordinate>55.0</Coordinate>
+    <Coordinate>66.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:ClothesListing"
+      Title="Kåpe"
+      Description="Kåte til salgs. Ikke brukt. Selges i original embalasje. "
+      Price="500"
+      Modified_At="2022-03-05T21:30:52.000+0100"
+      user="//@user.0"
+      Size="XL">
+    <Coordinate>45.0</Coordinate>
+    <Coordinate>66.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:ClothesListing"
+      Title="godt brukt jakke til salgs"
+      Description="godt brukt og godt oppbevart skinnjakke til salgs"
+      Price="349"
+      Modified_At="2022-10-26T00:00:00.000+0200"
+      user="//@user.0"
+      Size="L"
+      Condition="Used">
+    <Coordinate>890.0</Coordinate>
+    <Coordinate>66.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:ClothesListing"
+      Title="Turbukse til salgs"
+      Description="Turbukse til salgs. inkludert frakt"
+      Price="650"
+      Modified_At="2022-09-30T00:00:00.000+0200"
+      user="//@user.4"
+      Size="M">
+    <Coordinate>789.0</Coordinate>
+    <Coordinate>90.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:SportListing"
+      Title="Smartklokke til salgs"
+      Description="Sportsklokke til salgs"
+      Price="1999"
+      Modified_At="2022-10-22T00:00:00.000+0200"
+      user="//@user.4"
+      SportType="Accessories">
+    <Coordinate>45.0</Coordinate>
+    <Coordinate>5.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:SportListing"
+      Title="Løpesko "
+      Description="lite brukt løpesko til baneløp i størrelse 39"
+      Price="1500"
+      Modified_At="2022-07-30T00:00:00.000+0200"
+      user="//@user.2"
+      Condition="Used"
+      SportType="Track">
+    <Coordinate>25.0</Coordinate>
+    <Coordinate>679.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:SportListing"
+      Title="Basketball"
+      Description="basketball til salgs"
+      Price="150"
+      Modified_At="2022-10-21T00:00:00.000+0200"
+      user="//@user.0">
+    <Coordinate>555.0</Coordinate>
+    <Coordinate>2334.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:PetListing"
+      Title="Golden retriever kull 2022"
+      Description="Golden-retriever valper søker hjem"
+      Price="6000"
+      Modified_At="2022-08-31T00:00:00.000+0200"
+      user="//@user.0"
+      Species="Golden Retriever">
+    <Coordinate>798.0</Coordinate>
+    <Coordinate>456.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:PetListing"
+      Title="Papegøye"
+      Description="Papegøye søker nytt hjem"
+      Price="9000"
+      Modified_At="2022-10-01T00:00:00.000+0200"
+      user="//@user.2"
+      Species="Papegøye"
+      PetType="Bird">
+    <Coordinate>87.0</Coordinate>
+    <Coordinate>356.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:PetListing"
+      Title="Katt søker nytt hjem"
+      Description="11 år gammel nala søker nytt hjem"
+      Price="300"
+      Modified_At="2022-06-21T00:00:00.000+0200"
+      user="//@user.1"
+      PetType="Cat">
+    <Coordinate>98.0</Coordinate>
+    <Coordinate>2345.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:CameraListing"
+      Title="Nikon S5670"
+      Description="Nikon S5670 til salgs. Lite brukt, ingen skader"
+      Price="3499"
+      Modified_At="2022-10-18T00:00:00.000+0200"
+      user="//@user.1"
+      Condition="Used"
+      Brand="Nikon">
+    <Coordinate>64.0</Coordinate>
+    <Coordinate>3413.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:CameraListing"
+      Title="Sony LK4500"
+      Description="30mm-70mm, original emballasje. Julegave som vil byttes"
+      Price="4300"
+      Modified_At="2022-01-05T00:00:00.000+0100"
+      user="//@user.0"
+      Brand="Sony"
+      CameraType="Lense">
+    <Coordinate>864.0</Coordinate>
+    <Coordinate>378.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:CameraListing"
+      Title="Samsung G540 "
+      Description="Samsung G540, lite brukt hybridkamera"
+      Price="5000"
+      Modified_At="2022-08-15T00:00:00.000+0200"
+      user="//@user.2"
+      Condition="Used"
+      Brand="Samsung">
+    <Coordinate>798.0</Coordinate>
+    <Coordinate>457.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:PhoneListing"
+      Title="Iphone 11pro"
+      Description="Pent brukt Iphone 11pro til salgs. 2 år garanti"
+      Price="4500"
+      Modified_At="2022-09-25T00:00:00.000+0200"
+      user="//@user.3"
+      Condition="Used"
+      Brand="Apple">
+    <Coordinate>45678.0</Coordinate>
+    <Coordinate>8765.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:PhoneListing"
+      Title="Samsung Galaxy s20+ ultra pro max"
+      Description="Lite brukt Samsung galaxy s20+ ultra pro max. originalpris: 23000"
+      Price="12000"
+      Modified_At="2022-10-15T00:00:00.000+0200"
+      user="//@user.3"
+      Condition="Used"
+      Brand="Samsung"
+      PhoneType="Android">
+    <Coordinate>564.0</Coordinate>
+    <Coordinate>345647.0</Coordinate>
+  </listing>
+  <listing xsi:type="ecoreA1:PhoneListing"
+      Title="Oneplus GLSD45"
+      Description="Oneplus GLSD45 til salgs"
+      Price="4000"
+      user="//@user.0"
+      Condition="Used"
+      Brand="Oneplus"
+      PhoneType="Android">
+    <Coordinate>7564.0</Coordinate>
+    <Coordinate>34567.0</Coordinate>
+  </listing>
+</ecoreA1:Finn>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/EcoreA1/src-gen" creationIcons="false" editDirectory="/EcoreA1.edit/src-gen"
+    editorDirectory="/EcoreA1.editor/src-gen" modelPluginID="EcoreA1" modelName="EcoreA1"
+    rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container" codeFormatting="true"
+    importerID="org.eclipse.emf.importer.ecore" complianceLevel="5.0" copyrightFields="false"
+    operationReflection="true" importOrganizing="true">
+  <foreignModel>ecoreA1.ecore</foreignModel>
+  <testsDirectory xsi:nil="true"/>
+  <genPackages prefix="EcoreA1" disposableProviderFactory="true" ecorePackage="ecoreA1.ecore#/">
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ecoreA1.ecore#//BikeType">
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//BikeType/Terrain"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//BikeType/Hybrid"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//BikeType/Electric"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//BikeType/BMX"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ecoreA1.ecore#//Condition">
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//Condition/New"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//Condition/Used"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ecoreA1.ecore#//ClothesType">
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//ClothesType/Jacket"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//ClothesType/Pants"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ecoreA1.ecore#//CameraTypes">
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//CameraTypes/Hybrid"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//CameraTypes/Compact"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//CameraTypes/Lense"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ecoreA1.ecore#//PhoneType">
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//PhoneType/Iphone"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//PhoneType/Android"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//PhoneType/Other"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ecoreA1.ecore#//SportType">
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//SportType/BallGame"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//SportType/Swimming"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//SportType/Track"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//SportType/Accessories"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ecoreA1.ecore#//PetType">
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//PetType/Dog"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//PetType/Cat"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//PetType/Bird"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//PetType/Rodent"/>
+    </genEnums>
+    <genEnums typeSafeEnumCompatible="false" ecoreEnum="ecoreA1.ecore#//GenderType">
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//GenderType/Male"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//GenderType/Female"/>
+      <genEnumLiterals ecoreEnumLiteral="ecoreA1.ecore#//GenderType/Other"/>
+    </genEnums>
+    <genClasses ecoreClass="ecoreA1.ecore#//Listing">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//Listing/ID"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//Listing/Title"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//Listing/Description"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//Listing/Price"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//Listing/Modified_At"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//Listing/Coordinate"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference ecoreA1.ecore#//Listing/user"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//BikeListing">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//BikeListing/BikeType"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//BikeListing/Condition"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//User">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//User/Email"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//User/Phone"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//User/Name"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference ecoreA1.ecore#//User/listing"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference ecoreA1.ecore#//User/buys"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//ClothesListing">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//ClothesListing/Size"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//ClothesListing/Type"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//ClothesListing/Condition"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//Finn">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ecoreA1.ecore#//Finn/user"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference ecoreA1.ecore#//Finn/listing"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//ElectronicListing">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//ElectronicListing/Condition"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//ElectronicListing/Brand"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//SportListing">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//SportListing/Condition"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//SportListing/SportType"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//PetListing">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//PetListing/Species"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//PetListing/PetType"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//CameraListing">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//CameraListing/CameraType"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//PhoneListing">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//PhoneListing/PhoneType"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//PrivateUser">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference ecoreA1.ecore#//PrivateUser/Favorites"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//PrivateUser/DateOfBirth"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//PrivateUser/Gender"/>
+    </genClasses>
+    <genClasses ecoreClass="ecoreA1.ecore#//CompanyUser">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute ecoreA1.ecore#//CompanyUser/Website"/>
+    </genClasses>
+  </genPackages>
+</genmodel:GenModel>
