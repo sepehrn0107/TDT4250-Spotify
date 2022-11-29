@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <genmodel:GenModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel" modelDirectory="/Spotify/src-gen" creationIcons="false" editDirectory="/Spotify.edit/src-gen"
+    xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:genmodel="http://www.eclipse.org/emf/2002/GenModel"
+    modelDirectory="/Spotify/src-gen" creationIcons="false" editDirectory="/Spotify.edit/src-gen"
     editorDirectory="/Spotify.editor/src-gen" modelPluginID="Spotify" modelName="Spotify"
     rootExtendsClass="org.eclipse.emf.ecore.impl.MinimalEObjectImpl$Container" codeFormatting="true"
     importerID="org.eclipse.emf.importer.ecore" complianceLevel="5.0" copyrightFields="false"
     operationReflection="true" importOrganizing="true">
   <foreignModel>spotify.ecore</foreignModel>
   <testsDirectory xsi:nil="true"/>
-  <genPackages prefix="Spotify" disposableProviderFactory="true" ecorePackage="spotify.ecore#/"/>
+  <genPackages prefix="Spotify" disposableProviderFactory="true" ecorePackage="spotify.ecore#/">
+    <genClasses ecoreClass="spotify.ecore#//Album"/>
+    <genClasses ecoreClass="spotify.ecore#//Artist"/>
+    <genClasses ecoreClass="spotify.ecore#//Track">
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Track/available_markets"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Track/Duration"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Track/Explicit"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Track/href"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Track/ID"/>
+    </genClasses>
+  </genPackages>
 </genmodel:GenModel>
