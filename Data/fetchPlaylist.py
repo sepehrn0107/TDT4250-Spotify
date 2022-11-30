@@ -13,7 +13,7 @@ filename = "./playlist_"+"".join(x for x in playlist["name"] if x.isalnum())+".c
 
 with open(filename,"w") as f:
     writer = csv.writer(f)
-    writer.writerow(["Track title", "Album title", "duration (ms)","Artist names" "Artist IDs","track ID", "album ID"])
+    writer.writerow(["Track title", "Album title", "duration (ms)","Artist names", "Artist IDs","track ID", "album ID"])
     for item in results["items"]:
         artistNames = " | ".join(artist["name"] for artist in item["track"]["artists"])
         artistIDs = " | ".join(artist["id"] for artist in item["track"]["artists"])

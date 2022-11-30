@@ -16,7 +16,7 @@ filename = "./artist_"+"".join(x for x in artist["name"] if x.isalnum())+".csv"
 
 with open(filename,"w") as f:
     writer = csv.writer(f)
-    writer.writerow(["Track title", "Album title","Artists" "Duration (ms)","Artist IDs","Track ID", "Album ID"])
+    writer.writerow(["Track title", "Album title","Artists", "Duration (ms)","Artist IDs","Track ID", "Album ID"])
     for album in albums:
         albumName = album["name"]
         tracksFromAlbum = spotify.album_tracks(album["uri"])
