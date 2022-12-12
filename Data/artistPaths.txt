@@ -1,0 +1,6 @@
+artist_Rihanna.csv
+artist_Eminem.csv
+artist_Rihanna.csv
+artist_Rihanna.csv
+artist_Rihanna.csv
+artist_Eminem.csv
