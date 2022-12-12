@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.0"?>
+
+<!--
+-->
+
+<plugin>
+
+   <extension point="org.eclipse.ui.newWizards">
+      <!-- @generated spotify -->
+      <category
+            id="org.eclipse.emf.ecore.Wizard.category.ID"
+            name="%_UI_Wizard_category"/>
+      <wizard
+            id="spotify.presentation.SpotifyModelWizardID"
+            name="%_UI_SpotifyModelWizard_label"
+            class="spotify.presentation.SpotifyModelWizard"
+            category="org.eclipse.emf.ecore.Wizard.category.ID"
+            icon="icons/full/obj16/SpotifyModelFile.gif">
+         <description>%_UI_SpotifyModelWizard_description</description>
+         <selection class="org.eclipse.core.resources.IResource"/>
+      </wizard>
+   </extension>
+
+   <extension point="org.eclipse.ui.editors">
+      <!-- @generated spotify -->
+      <editor
+            id="spotify.presentation.SpotifyEditorID"
+            name="%_UI_SpotifyEditor_label"
+            icon="icons/full/obj16/SpotifyModelFile.gif"
+            extensions="spotify"
+            class="spotify.presentation.SpotifyEditor"
+            contributorClass="spotify.presentation.SpotifyActionBarContributor">
+      </editor>
+   </extension>
+
+</plugin>

@@ -5,13 +5,13 @@
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="ID" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
         iD="true"/>
-    <eStructuralFeatures xsi:type="ecore:EReference" name="track" lowerBound="1" upperBound="-1"
+    <eStructuralFeatures xsi:type="ecore:EReference" name="trackInAlbum" upperBound="-1"
         eType="#//Track" containment="true"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="AlbumType" unique="false"
         eType="#//AlbumType"/>
   </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="Artist" eSuperTypes="#//Account">
-    <eStructuralFeatures xsi:type="ecore:EReference" name="album" upperBound="-1"
+    <eStructuralFeatures xsi:type="ecore:EReference" name="artistAlbum" upperBound="-1"
         eType="#//Album" containment="true"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="Followers" ordered="false"
         unique="false" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
@@ -37,11 +37,10 @@
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="ID" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
         iD="true"/>
-    <eStructuralFeatures xsi:type="ecore:EReference" name="track" lowerBound="1" upperBound="-1"
-        eType="#//Track"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="trackInPlaylist" lowerBound="1"
+        upperBound="-1" eType="#//Track"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="Description" ordered="false"
-        unique="false" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
-        changeable="false"/>
+        unique="false" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="Followers" unique="false"
         lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EInt"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="Public" unique="false"
@@ -53,16 +52,21 @@
     <eLiterals name="compilation" value="2"/>
   </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="Account" abstract="true">
-    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
-        changeable="false"/>
-    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Country" ordered="false"
-        unique="false" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
-    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Email" ordered="false"
-        lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
-        changeable="false"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Name" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
     <eStructuralFeatures xsi:type="ecore:EAttribute" name="UserID" ordered="false"
         lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"
-        changeable="false"/>
+        iD="true"/>
   </eClassifiers>
-  <eClassifiers xsi:type="ecore:EClass" name="User" eSuperTypes="#//Account"/>
+  <eClassifiers xsi:type="ecore:EClass" name="User" eSuperTypes="#//Account">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="playlist" upperBound="-1"
+        eType="#//Playlist"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Email" ordered="false"
+        lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    <eStructuralFeatures xsi:type="ecore:EAttribute" name="Country" ordered="false"
+        unique="false" lowerBound="1" eType="ecore:EDataType http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+  </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Spotify">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="account" upperBound="-1"
+        eType="#//Account" containment="true"/>
+  </eClassifiers>
 </ecore:EPackage>

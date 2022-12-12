@@ -17,11 +17,11 @@
     <genClasses ecoreClass="spotify.ecore#//Album">
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Album/Name"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Album/ID"/>
-      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spotify.ecore#//Album/track"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spotify.ecore#//Album/trackInAlbum"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Album/AlbumType"/>
     </genClasses>
     <genClasses ecoreClass="spotify.ecore#//Artist">
-      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spotify.ecore#//Artist/album"/>
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spotify.ecore#//Artist/artistAlbum"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Artist/Followers"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Artist/Genres"/>
     </genClasses>
@@ -37,17 +37,22 @@
     <genClasses ecoreClass="spotify.ecore#//Playlist">
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Playlist/Name"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Playlist/ID"/>
-      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference spotify.ecore#//Playlist/track"/>
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference spotify.ecore#//Playlist/trackInPlaylist"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Playlist/Description"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Playlist/Followers"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Playlist/Public"/>
     </genClasses>
     <genClasses image="false" ecoreClass="spotify.ecore#//Account">
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Account/Name"/>
-      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Account/Country"/>
-      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Account/Email"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Account/UserID"/>
     </genClasses>
-    <genClasses ecoreClass="spotify.ecore#//User"/>
+    <genClasses ecoreClass="spotify.ecore#//User">
+      <genFeatures notify="false" createChild="false" propertySortChoices="true" ecoreFeature="ecore:EReference spotify.ecore#//User/playlist"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//User/Email"/>
+      <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//User/Country"/>
+    </genClasses>
+    <genClasses ecoreClass="spotify.ecore#//Spotify">
+      <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spotify.ecore#//Spotify/account"/>
+    </genClasses>
   </genPackages>
 </genmodel:GenModel>
