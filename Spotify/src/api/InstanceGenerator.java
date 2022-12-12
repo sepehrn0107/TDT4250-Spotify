@@ -1,10 +1,18 @@
 package api;
 
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 
+import org.eclipse.emf.common.util.URI;
 import org.eclipse.emf.ecore.EObject;
-import org.eclipse.emf.ecore.EcoreFactory;
-import org.eclipse.emf.ecore.EcorePackage;
+import org.eclipse.emf.ecore.resource.Resource;
+import org.eclipse.emf.ecore.resource.ResourceSet;
+import org.eclipse.emf.ecore.resource.impl.ResourceSetImpl;
+import org.eclipse.emf.ecore.xmi.XMIResource;
+import org.eclipse.emf.ecore.xmi.XMLResource;
+import org.eclipse.emf.ecore.xmi.impl.XMIResourceFactoryImpl;
+import org.eclipse.emf.ecore.xmi.impl.XMLResourceFactoryImpl;
 
 import spotify.Account;
 import spotify.Album;
@@ -16,10 +24,22 @@ import spotify.SpotifyFactory;
 import spotify.Track;
 import spotify.User;
 
+import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
+
+
 public class InstanceGenerator {
+	
     ArrayList<ArrayList<String>> artistList;
-    SpotifyFactory factory = SpotifyFactory.eINSTANCE;
-    Spotify spotify = factory.createSpotify();
+    SpotifyFactory factory;
+    Spotify spotify;
+    
+    public InstanceGenerator() {
+    	factory = SpotifyFactory.eINSTANCE;
+    	spotify = factory.createSpotify();
+    }
+
 
     public void generateArtist(ArrayList<String> artistData) {
         Artist artist = factory.createArtist();
@@ -43,13 +63,13 @@ public class InstanceGenerator {
         Album album = factory.createAlbum();
         album.setID(albumData.get(0));
         album.setName(albumData.get(1));
-        if (albumData.get(2) == "0") {
+        if (albumData.get(2) == "album") {
             album.setAlbumType(AlbumType.ALBUM);
         }
-        if (albumData.get(2) == "1") {
+        if (albumData.get(2) == "single") {
             album.setAlbumType(AlbumType.SINGLE);
         }
-        if (albumData.get(2) == "2") {
+        if (albumData.get(2) == "compilation") {
             album.setAlbumType(AlbumType.COMPILATION);
         }
         return album;
@@ -128,5 +148,53 @@ public class InstanceGenerator {
         playlist.setPublic(Boolean.parseBoolean(playlistMetaData.get(4)));
         playlistTracks.forEach(track -> playlist.getTrackInPlaylist().add(generateTrack(track)));
         findUser(playlistMetaData.get(0)).getPlaylist().add(playlist);
+    }
+    
+    
+    
+    public ArrayList<ArrayList<String>> csvReader(String path){
+        String line = "";
+        String cvsSplitBy = ",";
+        ArrayList<ArrayList<String>> data = new ArrayList<ArrayList<String>>();
+        try (BufferedReader br = new BufferedReader(new FileReader(path))) {
+          while ((line = br.readLine()) != null) {
+            // use comma as separator
+        	ArrayList<String> values = new ArrayList(Arrays.asList(line.split(cvsSplitBy)));
+            data.add(values);
+            System.out.println(values);
+          }
+
+        } catch (IOException e) {
+          e.printStackTrace();
+        }
+        return data;
+      }
+    	
+    public static void main(String[] args) {
+    	InstanceGenerator gen = new InstanceGenerator();
+    	ArrayList<ArrayList<String>> artists = gen.csvReader("../Data/artistList.csv");
+    	for (ArrayList<String> art:artists.subList(1, artists.size())) {
+    		gen.generateArtist(art);		
+    	};
+    	
+    	Resource.Factory.Registry reg = Resource.Factory.Registry.INSTANCE;
+        reg.getExtensionToFactoryMap().put("xmi", new XMIResourceFactoryImpl());
+        ResourceSet Spotify = new ResourceSetImpl();
+
+        // Create the resource and load the Java object
+        Resource res = Spotify.createResource(URI.createURI("Spotify.xmi"));
+        EObject obj = gen.spotify;
+
+        // Add the object to the resource
+        res.getContents().add(obj);
+
+        // Save the resource
+        try {
+        res.save(Collections.EMPTY_MAP);}
+        catch(IOException e){
+        	System.out.println("NEI");
+        	e.printStackTrace();
+        }
+    	
     }
 }

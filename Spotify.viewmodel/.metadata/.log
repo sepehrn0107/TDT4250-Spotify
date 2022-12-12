@@ -1,0 +1,109 @@
+!SESSION 2022-12-12 23:00:09.990 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application org.eclipse.emf.mwe.core.WorkflowRunner
+Command-line arguments:  -application org.eclipse.emf.mwe.core.WorkflowRunner -data C:\Users\SNB\Documents\tdt4250Project\TDT4250-Spotify\Spotify.viewmodel -dev file:C:/Users/SNB/Documents/tdt4250Project/TDT4250-Spotify/.metadata/.plugins/org.eclipse.pde.core/New_configuration (1)/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+
+!ENTRY bndtools.m2e 4 0 2022-12-12 23:00:12.756
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: bndtools.m2e [13]
+  Unresolved requirement: Import-Package: org.apache.maven.artifact; bundle-symbolic-name="org.eclipse.m2e.maven.runtime"; bundle-version="[1.16.0,2.0.0)"; provider="m2e"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY biz.aQute.bnd.maven 2 0 2022-12-12 23:00:15.817
+!MESSAGE Could not resolve module: biz.aQute.bnd.maven [3]
+  Unresolved requirement: Import-Package: org.apache.maven; bundle-symbolic-name="org.eclipse.m2e.maven.runtime"; bundle-version="[1.16.0,2.0.0)"; provider="m2e"
+
+
+!ENTRY bndtools.m2e 2 0 2022-12-12 23:00:15.818
+!MESSAGE Could not resolve module: bndtools.m2e [13]
+  Unresolved requirement: Import-Package: org.apache.maven.artifact; bundle-symbolic-name="org.eclipse.m2e.maven.runtime"; bundle-version="[1.16.0,2.0.0)"; provider="m2e"
+
+
+!ENTRY org.eclipse.osgi 4 0 2022-12-12 23:00:15.819
+!MESSAGE Application error
+!STACK 1
+java.lang.ArrayIndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at org.eclipse.emf.mwe.core.WorkflowRunner.doRun(WorkflowRunner.java:147)
+	at org.eclipse.emf.mwe.core.WorkflowRunner.main(WorkflowRunner.java:71)
+	at org.eclipse.emf.mwe.core.WorkflowRunnerApplication.start(WorkflowRunnerApplication.java:30)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:596)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1467)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1440)
+!SESSION 2022-12-12 23:00:57.288 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application org.eclipse.emf.importer.java.Java2GenModel
+Command-line arguments:  -application org.eclipse.emf.importer.java.Java2GenModel -data C:\Users\SNB\Documents\tdt4250Project\TDT4250-Spotify\Spotify.viewmodel -dev file:C:/Users/SNB/Documents/tdt4250Project/TDT4250-Spotify/.metadata/.plugins/org.eclipse.pde.core/New_configuration (1)/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+
+!ENTRY bndtools.m2e 4 0 2022-12-12 23:01:00.099
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: bndtools.m2e [13]
+  Unresolved requirement: Import-Package: org.apache.maven.artifact; bundle-symbolic-name="org.eclipse.m2e.maven.runtime"; bundle-version="[1.16.0,2.0.0)"; provider="m2e"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-12-12 23:01:03.747
+!MESSAGE The workspace will exit with unsaved changes in this session.
+!SESSION 2022-12-12 23:01:49.215 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=17.0.4.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -application org.eclipse.emf.importer.ecore.Ecore2GenModel
+Command-line arguments:  -application org.eclipse.emf.importer.ecore.Ecore2GenModel -data C:\Users\SNB\Documents\tdt4250Project\TDT4250-Spotify\Spotify.viewmodel -dev file:C:/Users/SNB/Documents/tdt4250Project/TDT4250-Spotify/.metadata/.plugins/org.eclipse.pde.core/New_configuration (1)/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+
+!ENTRY bndtools.m2e 4 0 2022-12-12 23:01:52.018
+!MESSAGE FrameworkEvent ERROR
+!STACK 0
+org.osgi.framework.BundleException: Could not resolve module: bndtools.m2e [13]
+  Unresolved requirement: Import-Package: org.apache.maven.artifact; bundle-symbolic-name="org.eclipse.m2e.maven.runtime"; bundle-version="[1.16.0,2.0.0)"; provider="m2e"
+
+	at org.eclipse.osgi.container.Module.start(Module.java:463)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel$2.run(ModuleContainer.java:1852)
+	at org.eclipse.osgi.internal.framework.EquinoxContainerAdaptor$1$1.execute(EquinoxContainerAdaptor.java:136)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1845)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.incStartLevel(ModuleContainer.java:1786)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.doContainerStartLevel(ModuleContainer.java:1750)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1672)
+	at org.eclipse.osgi.container.ModuleContainer$ContainerStartLevel.dispatchEvent(ModuleContainer.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:234)
+	at org.eclipse.osgi.framework.eventmgr.EventManager$EventThread.run(EventManager.java:345)
+
+!ENTRY org.eclipse.core.resources 2 10035 2022-12-12 23:01:55.134
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.

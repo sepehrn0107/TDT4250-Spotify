@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.emf.ecp.view.model:View xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:org.eclipse.emf.ecp.view.model="http://org/eclipse/emf/ecp/view/model/1180" xmi:id="_IUm6UHpsEe2Yf6Afnbabcw" name="Spotify">
+  <rootEClass href="http://www.example.org/spotify#//Spotify"/>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_IUwEQHpsEe2Yf6Afnbabcw" name="Control account">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_IUwEQXpsEe2Yf6Afnbabcw">
+      <domainModelEFeature xsi:type="ecore:EReference" href="http://www.example.org/spotify#//Spotify/account"/>
+    </domainModelReference>
+  </children>
+  <ecorePaths>/Spotify/spotify.ecore</ecorePaths>
+</org.eclipse.emf.ecp.view.model:View>

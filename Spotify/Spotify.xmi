@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ASCII"?>
+<spotify:Spotify xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:spotify="http://www.example.org/spotify">
+  <account xsi:type="spotify:Artist" Name="Rihanna" UserID="5pKCCKE2ajJHZ9KAiaK11H" Followers="51384221"/>
+  <account xsi:type="spotify:Artist" Name="Calvin Harris" UserID="7CajNmpbOovFoOoasH2HaY" Followers="23019328"/>
+  <account xsi:type="spotify:Artist" Name="Drake" UserID="3TVXtAsR1Inumwj472S9r4" Followers="69636591"/>
+  <account xsi:type="spotify:Artist" Name="JAY-Z" UserID="3nFkdlSjzX9mRTtwJOzDYB" Followers="7810104"/>
+  <account xsi:type="spotify:Artist" Name="Kanye West" UserID="5K4W6rqBFWDnAN6FQUkS6x" Followers="18851759"/>
+  <account xsi:type="spotify:Artist" Name="Paul McCartney" UserID="4STHEaNw4mPZ2tzheohgXB" Followers="4205682"/>
+  <account xsi:type="spotify:Artist" Name="Mikky Ekko" UserID="1buzCmyYZE4kcdLRudsb8V" Followers="127220"/>
+  <account xsi:type="spotify:Artist" Name="Eminem" UserID="7dGJo4pcD2V6oG8kP0tJRR" Followers="62780907"/>
+  <account xsi:type="spotify:Artist" Name="N.E.R.D" UserID="5wPoxI5si3eJsYYwyXV4Wi" Followers="774477"/>
+  <account xsi:type="spotify:Artist" Name="T.I." UserID="4OBJLual30L7gRl5UkeRcT" Followers="4415216"/>
+  <account xsi:type="spotify:Artist" Name="SZA" UserID="7tYKF4w9nC0nq9CsPZTHyP" Followers="9075243"/>
+  <account xsi:type="spotify:Artist" Name="Coldplay" UserID="4gzpq5DPGxSnKTe4SA8HAU" Followers="40383122"/>
+  <account xsi:type="spotify:Artist" Name="Russ" UserID="1z7b1Pr1rSlvWRzsW3HOrS" Followers="4618181"/>
+</spotify:Spotify>
