@@ -26,6 +26,7 @@ public class InstanceGenerator {
         artist.setUserID(artistData.get(0));
         artist.setName(artistData.get(1));
         artist.setFollowers(Integer.parseInt(artistData.get(2)));
+        artist.setGenres(artistData.get(3));;
         spotify.getAccount().add(artist);
 
     }

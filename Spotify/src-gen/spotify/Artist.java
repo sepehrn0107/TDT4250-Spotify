@@ -58,15 +58,25 @@ public interface Artist extends Account {
 	void setFollowers(int value);
 
 	/**
-	 * Returns the value of the '<em><b>Genres</b></em>' attribute list.
-	 * The list contents are of type {@link java.lang.String}.
+	 * Returns the value of the '<em><b>Genres</b></em>' attribute.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
-	 * @return the value of the '<em>Genres</em>' attribute list.
+	 * @return the value of the '<em>Genres</em>' attribute.
+	 * @see #setGenres(String)
 	 * @see spotify.SpotifyPackage#getArtist_Genres()
 	 * @model unique="false" ordered="false"
 	 * @generated
 	 */
-	EList<String> getGenres();
+	String getGenres();
+
+	/**
+	 * Sets the value of the '{@link spotify.Artist#getGenres <em>Genres</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @param value the new value of the '<em>Genres</em>' attribute.
+	 * @see #getGenres()
+	 * @generated
+	 */
+	void setGenres(String value);
 
 } // Artist

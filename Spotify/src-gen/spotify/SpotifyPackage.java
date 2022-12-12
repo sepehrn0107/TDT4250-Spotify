@@ -214,7 +214,7 @@ public interface SpotifyPackage extends EPackage {
 	int ARTIST__FOLLOWERS = ACCOUNT_FEATURE_COUNT + 1;
 
 	/**
-	 * The feature id for the '<em><b>Genres</b></em>' attribute list.
+	 * The feature id for the '<em><b>Genres</b></em>' attribute.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @generated
@@ -620,10 +620,10 @@ public interface SpotifyPackage extends EPackage {
 	EAttribute getArtist_Followers();
 
 	/**
-	 * Returns the meta object for the attribute list '{@link spotify.Artist#getGenres <em>Genres</em>}'.
+	 * Returns the meta object for the attribute '{@link spotify.Artist#getGenres <em>Genres</em>}'.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
-	 * @return the meta object for the attribute list '<em>Genres</em>'.
+	 * @return the meta object for the attribute '<em>Genres</em>'.
 	 * @see spotify.Artist#getGenres()
 	 * @see #getArtist()
 	 * @generated
@@ -991,7 +991,7 @@ public interface SpotifyPackage extends EPackage {
 		EAttribute ARTIST__FOLLOWERS = eINSTANCE.getArtist_Followers();
 
 		/**
-		 * The meta object literal for the '<em><b>Genres</b></em>' attribute list feature.
+		 * The meta object literal for the '<em><b>Genres</b></em>' attribute feature.
 		 * <!-- begin-user-doc -->
 		 * <!-- end-user-doc -->
 		 * @generated

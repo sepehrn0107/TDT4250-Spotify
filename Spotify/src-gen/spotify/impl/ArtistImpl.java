@@ -13,8 +13,6 @@ import org.eclipse.emf.ecore.EClass;
 import org.eclipse.emf.ecore.InternalEObject;
 
 import org.eclipse.emf.ecore.impl.ENotificationImpl;
-
-import org.eclipse.emf.ecore.util.EDataTypeEList;
 import org.eclipse.emf.ecore.util.EObjectContainmentEList;
 import org.eclipse.emf.ecore.util.InternalEList;
 
@@ -69,14 +67,24 @@ public class ArtistImpl extends AccountImpl implements Artist {
 	protected int followers = FOLLOWERS_EDEFAULT;
 
 	/**
-	 * The cached value of the '{@link #getGenres() <em>Genres</em>}' attribute list.
+	 * The default value of the '{@link #getGenres() <em>Genres</em>}' attribute.
 	 * <!-- begin-user-doc -->
 	 * <!-- end-user-doc -->
 	 * @see #getGenres()
 	 * @generated
 	 * @ordered
 	 */
-	protected EList<String> genres;
+	protected static final String GENRES_EDEFAULT = null;
+
+	/**
+	 * The cached value of the '{@link #getGenres() <em>Genres</em>}' attribute.
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @see #getGenres()
+	 * @generated
+	 * @ordered
+	 */
+	protected String genres = GENRES_EDEFAULT;
 
 	/**
 	 * <!-- begin-user-doc -->
@@ -136,11 +144,20 @@ public class ArtistImpl extends AccountImpl implements Artist {
 	 * <!-- end-user-doc -->
 	 * @generated
 	 */
-	public EList<String> getGenres() {
-		if (genres == null) {
-			genres = new EDataTypeEList<String>(String.class, this, SpotifyPackage.ARTIST__GENRES);
-		}
+	public String getGenres() {
 		return genres;
+	}
+
+	/**
+	 * <!-- begin-user-doc -->
+	 * <!-- end-user-doc -->
+	 * @generated
+	 */
+	public void setGenres(String newGenres) {
+		String oldGenres = genres;
+		genres = newGenres;
+		if (eNotificationRequired())
+			eNotify(new ENotificationImpl(this, Notification.SET, SpotifyPackage.ARTIST__GENRES, oldGenres, genres));
 	}
 
 	/**
@@ -192,8 +209,7 @@ public class ArtistImpl extends AccountImpl implements Artist {
 			setFollowers((Integer) newValue);
 			return;
 		case SpotifyPackage.ARTIST__GENRES:
-			getGenres().clear();
-			getGenres().addAll((Collection<? extends String>) newValue);
+			setGenres((String) newValue);
 			return;
 		}
 		super.eSet(featureID, newValue);
@@ -214,7 +230,7 @@ public class ArtistImpl extends AccountImpl implements Artist {
 			setFollowers(FOLLOWERS_EDEFAULT);
 			return;
 		case SpotifyPackage.ARTIST__GENRES:
-			getGenres().clear();
+			setGenres(GENRES_EDEFAULT);
 			return;
 		}
 		super.eUnset(featureID);
@@ -233,7 +249,7 @@ public class ArtistImpl extends AccountImpl implements Artist {
 		case SpotifyPackage.ARTIST__FOLLOWERS:
 			return followers != FOLLOWERS_EDEFAULT;
 		case SpotifyPackage.ARTIST__GENRES:
-			return genres != null && !genres.isEmpty();
+			return GENRES_EDEFAULT == null ? genres != null : !GENRES_EDEFAULT.equals(genres);
 		}
 		return super.eIsSet(featureID);
 	}

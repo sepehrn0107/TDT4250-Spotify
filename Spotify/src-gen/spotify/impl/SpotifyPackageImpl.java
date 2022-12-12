@@ -578,9 +578,8 @@ public class SpotifyPackageImpl extends EPackageImpl implements SpotifyPackage {
 		initEAttribute(getArtist_Followers(), ecorePackage.getEInt(), "Followers", null, 1, 1, Artist.class,
 				!IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, !IS_UNIQUE, !IS_DERIVED,
 				!IS_ORDERED);
-		initEAttribute(getArtist_Genres(), ecorePackage.getEString(), "Genres", null, 0, -1, Artist.class,
-				!IS_TRANSIENT, !IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, !IS_UNIQUE, !IS_DERIVED,
-				!IS_ORDERED);
+		initEAttribute(getArtist_Genres(), ecorePackage.getEString(), "Genres", null, 0, 1, Artist.class, !IS_TRANSIENT,
+				!IS_VOLATILE, IS_CHANGEABLE, !IS_UNSETTABLE, !IS_ID, !IS_UNIQUE, !IS_DERIVED, !IS_ORDERED);
 
 		initEClass(trackEClass, Track.class, "Track", !IS_ABSTRACT, !IS_INTERFACE, IS_GENERATED_INSTANCE_CLASS);
 		initEAttribute(getTrack_Available_markets(), ecorePackage.getEString(), "available_markets", null, 1, -1,
