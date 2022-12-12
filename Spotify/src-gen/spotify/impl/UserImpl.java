@@ -5,11 +5,13 @@ package spotify.impl;
 import java.util.Collection;
 
 import org.eclipse.emf.common.notify.Notification;
+
 import org.eclipse.emf.common.util.EList;
 
 import org.eclipse.emf.ecore.EClass;
 
 import org.eclipse.emf.ecore.impl.ENotificationImpl;
+
 import org.eclipse.emf.ecore.util.EObjectResolvingEList;
 
 import spotify.Playlist;
@@ -51,6 +53,7 @@ public class UserImpl extends AccountImpl implements User {
 	 * @ordered
 	 */
 	protected static final String EMAIL_EDEFAULT = null;
+
 	/**
 	 * The cached value of the '{@link #getEmail() <em>Email</em>}' attribute.
 	 * <!-- begin-user-doc -->
