@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.emf.ecp.view.model:View xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:org.eclipse.emf.ecp.view.model="http://org/eclipse/emf/ecp/view/model/1180" xmi:id="_RBLPMHonEe2Zi86dWQSm6w" name="Album">
+  <rootEClass href="http://www.example.org/spotify#//Album"/>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_RBOSgHonEe2Zi86dWQSm6w" name="Control Name">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_RBOSgXonEe2Zi86dWQSm6w">
+      <domainModelEFeature xsi:type="ecore:EAttribute" href="http://www.example.org/spotify#//Album/Name"/>
+    </domainModelReference>
+  </children>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_RBOSgnonEe2Zi86dWQSm6w" name="Control ID">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_RBOSg3onEe2Zi86dWQSm6w">
+      <domainModelEFeature xsi:type="ecore:EAttribute" href="http://www.example.org/spotify#//Album/ID"/>
+    </domainModelReference>
+  </children>
+  <children xsi:type="org.eclipse.emf.ecp.view.model:Control" xmi:id="_RBOShHonEe2Zi86dWQSm6w" name="Control track">
+    <domainModelReference xsi:type="org.eclipse.emf.ecp.view.model:FeaturePathDomainModelReference" xmi:id="_RBOShXonEe2Zi86dWQSm6w">
+      <domainModelEFeature xsi:type="ecore:EReference" href="http://www.example.org/spotify#//Album/track"/>
+    </domainModelReference>
+  </children>
+  <ecorePaths>/Spotify/model/spotify.ecore</ecorePaths>
+</org.eclipse.emf.ecp.view.model:View>
