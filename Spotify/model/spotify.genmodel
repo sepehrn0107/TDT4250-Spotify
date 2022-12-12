@@ -14,7 +14,7 @@
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Album/ID"/>
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spotify.ecore#//Album/track"/>
     </genClasses>
-    <genClasses ecoreClass="spotify.ecore#//Artist">
+    <genClasses provider="Stateful" ecoreClass="spotify.ecore#//Artist" labelFeature="#//spotify/Artist/Name">
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Artist/Name"/>
       <genFeatures createChild="false" ecoreFeature="ecore:EAttribute spotify.ecore#//Artist/ID"/>
       <genFeatures property="None" children="true" createChild="true" ecoreFeature="ecore:EReference spotify.ecore#//Artist/album"/>

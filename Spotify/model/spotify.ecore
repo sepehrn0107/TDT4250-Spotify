@@ -38,6 +38,7 @@
         eType="#//Track"/>
   </eClassifiers>
   <eClassifiers xsi:type="ecore:EClass" name="Spotify">
-    <eStructuralFeatures xsi:type="ecore:EReference" name="artist" eType="#//Artist"/>
+    <eStructuralFeatures xsi:type="ecore:EReference" name="artist" upperBound="-1"
+        eType="#//Artist"/>
   </eClassifiers>
 </ecore:EPackage>
