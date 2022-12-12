@@ -26,9 +26,9 @@ filename = "./playlist_"+"".join(x for x in playlist["name"] if x.isalnum())+".c
 with open(filename,"w",newline='',encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow([playlist["owner"]["id"],playlist["id"],playlist["name"],playlist["description"],playlist["public"]])
-    writer.writerow(["track ID","Track title","href",  "duration (ms)","explicit","Artist ID", "album ID"])
+    writer.writerow(["track ID","Track title","href",  "duration (ms)","explicit","Artist ID", "album ID", "Album Name", "Album Type"])
     for item in results["items"]:
         for art in item["track"]["artists"]:
             checkArtist(art["id"])
-        writer.writerow([item["track"]["id"],item["track"]["name"],item["track"]["href"],item["track"]["duration_ms"],item["track"]["explicit"],item["track"]["artists"][0]["id"],item["track"]["album"]["id"]])
+        writer.writerow([item["track"]["id"],item["track"]["name"],item["track"]["href"],item["track"]["duration_ms"],item["track"]["explicit"],item["track"]["artists"][0]["id"],item["track"]["album"]["id"],item["track"]["album"]["name"],item["track"]["album"]["album_type"]])
 

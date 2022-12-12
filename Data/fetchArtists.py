@@ -6,5 +6,3 @@ spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(cl
 
 
 
-
-print(spotify.search("top50",1, 0, "playlist")["playlists"]["items"][0])

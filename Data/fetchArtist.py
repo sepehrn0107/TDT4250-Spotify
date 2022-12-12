@@ -32,9 +32,9 @@ checkArtist(artist["id"])
 
 with open(filename,"w", encoding="utf-8",newline='') as f:
     writer = csv.writer(f)
-    writer.writerow(["Track Id", "Track title","href", "Duration (ms)","Explicit","Artist IDs", "Album ID"])
+    writer.writerow(["Track Id", "Track title","href", "Duration (ms)","Explicit","Artist IDs", "Album ID", "Album Name", "Album Type"])
     for album in albums:
         albumName = album["name"]
         tracksFromAlbum = spotify.album_tracks(album["uri"])
         for track in tracksFromAlbum["items"]:
-            writer.writerow([track["id"],track["name"],track["href"],track["duration_ms"],track["explicit"],track["artists"][0]["id"],album["id"]])
+            writer.writerow([track["id"],track["name"],track["href"],track["duration_ms"],track["explicit"],track["artists"][0]["id"],album["id"],album["name"],album["album_type"]])
