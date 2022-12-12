@@ -69,4 +69,8 @@
     <eStructuralFeatures xsi:type="ecore:EReference" name="account" upperBound="-1"
         eType="#//Account" containment="true"/>
   </eClassifiers>
+  <eClassifiers xsi:type="ecore:EClass" name="Spotify">
+    <eStructuralFeatures xsi:type="ecore:EReference" name="artist" upperBound="-1"
+        eType="#//Artist"/>
+  </eClassifiers>
 </ecore:EPackage>
