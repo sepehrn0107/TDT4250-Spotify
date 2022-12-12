@@ -1,0 +1,658 @@
+Track Id,Track title,href,Duration (ms),Explicit,Artist IDs,Album ID
+6sCvvleqKbeyOkQDieBYgp,Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By,https://api.spotify.com/v1/tracks/6sCvvleqKbeyOkQDieBYgp,196520,False,5pKCCKE2ajJHZ9KAiaK11H,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+6KsDoI8iySmXQ6UaSPuAx4,Love & Loyalty (Believe),https://api.spotify.com/v1/tracks/6KsDoI8iySmXQ6UaSPuAx4,380053,False,3Oa0mJQWQrUOqJ8fcLuu7l,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+0AoBY2Y3qs6dtGgOD6c91N,Alone,https://api.spotify.com/v1/tracks/0AoBY2Y3qs6dtGgOD6c91N,221746,False,3wcj11K77LjEY1PkEazffa,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+2yrtWT6W4KUMbfNtBcH8iN,No Woman No Cry,https://api.spotify.com/v1/tracks/2yrtWT6W4KUMbfNtBcH8iN,213266,False,687cZJR45JO7jhk1LHIbgq,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+5UaiWpx39E60GAsoAtICoV,Árboles Bajo El Mar,https://api.spotify.com/v1/tracks/5UaiWpx39E60GAsoAtICoV,261786,False,3Z3OTfxYdBnJKMXFbRjmU2,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+2LSsSV7V33wM9EKQA2xjGS,Con La Brisa,https://api.spotify.com/v1/tracks/2LSsSV7V33wM9EKQA2xjGS,167386,False,0XFgM33h3Ls5tj1M9IKUWd,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+7rIMBY4ANvxLDJS1m1TzmH,La Vida,https://api.spotify.com/v1/tracks/7rIMBY4ANvxLDJS1m1TzmH,157813,False,3p3jPcp8b7WL9XYj4xlsWj,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+2IWpTwTSmuVB6WjeuKN8Cl,Interlude,https://api.spotify.com/v1/tracks/2IWpTwTSmuVB6WjeuKN8Cl,138520,False,2SrSdSvpminqmStGELCSNd,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+5o77o7nTrQL1mWAyrvVMNI,Coming Back For You,https://api.spotify.com/v1/tracks/5o77o7nTrQL1mWAyrvVMNI,176293,False,75VKfyoBlkmrJFDqo1o2VY,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+1rHGit66Qhs5JL3FjaNYsW,"They Want It, But No",https://api.spotify.com/v1/tracks/1rHGit66Qhs5JL3FjaNYsW,157440,False,3Qh89pgJeZq6d8uM1bTot3,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+02dF3qjpgTpmPCBKo72C06,Laayli' kuxa'ano'one,https://api.spotify.com/v1/tracks/02dF3qjpgTpmPCBKo72C06,224746,False,3jADYwTI7Ae1cGiix32d3o,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+1yIJZPDmD1HwxR6SJYYQWA,Limoncello,https://api.spotify.com/v1/tracks/1yIJZPDmD1HwxR6SJYYQWA,154880,False,2eSQStXY58BrvMNOWJcIrr,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+4m8YqoUZLToSUjpNmb7m5X,Anya Mmiri,https://api.spotify.com/v1/tracks/4m8YqoUZLToSUjpNmb7m5X,188920,False,048LktY5zMnakWq7PTtFrz,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+11eM29CRUKqdlb6zHe13pP,Wake Up,https://api.spotify.com/v1/tracks/11eM29CRUKqdlb6zHe13pP,162826,False,59gzAeE63TMTxOdjU3Ew0K,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+0JAxf6vf8Lppihm55k13zv,Pantera,https://api.spotify.com/v1/tracks/0JAxf6vf8Lppihm55k13zv,169906,False,4QFG9KrGWEbr6hNA58CAqE,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+2CFGMjBuqypSwkDaYnrsk8,Jele,https://api.spotify.com/v1/tracks/2CFGMjBuqypSwkDaYnrsk8,229506,False,3Oa0mJQWQrUOqJ8fcLuu7l,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+7u2cPWo0974RudXZKDmdmT,Inframundo,https://api.spotify.com/v1/tracks/7u2cPWo0974RudXZKDmdmT,191773,False,4x9zOt693Z5NGiuxjOgFFJ,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+1p9R4HF2WGtZDISBxMwF3R,No Digas Mi Nombre,https://api.spotify.com/v1/tracks/1p9R4HF2WGtZDISBxMwF3R,222000,False,4nnXe6ziB1bhuKtsRUPVoz,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+3c1YCQvr720s61gHPgtkv8,Mi Pueblo,https://api.spotify.com/v1/tracks/3c1YCQvr720s61gHPgtkv8,160480,False,2RRmC4JQr7v3ejOAwxTwp5,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+18zQTt3ifDv6iLni2YuXMg,Born Again,https://api.spotify.com/v1/tracks/18zQTt3ifDv6iLni2YuXMg,213333,False,5pKCCKE2ajJHZ9KAiaK11H,06RK0wX4GqHcxBtHlVoGH5,Black Panther: Wakanda Forever - Music From and Inspired By,album
+6t90Z9XkdsHD8xMxro6KRP,Consideration,https://api.spotify.com/v1/tracks/6t90Z9XkdsHD8xMxro6KRP,161066,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+6K4Co1NQyOnoFEJMkZHkln,James Joint,https://api.spotify.com/v1/tracks/6K4Co1NQyOnoFEJMkZHkln,72080,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+0UHB9METy4VCXNgkcGqHqS,Kiss It Better,https://api.spotify.com/v1/tracks/0UHB9METy4VCXNgkcGqHqS,253080,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+72TFWvU3wUYdUuxejTTIzt,Work,https://api.spotify.com/v1/tracks/72TFWvU3wUYdUuxejTTIzt,219320,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+4mCf3vQf7z0Yseo0RxAi3V,Desperado,https://api.spotify.com/v1/tracks/4mCf3vQf7z0Yseo0RxAi3V,186466,False,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+3HQcsqRjRdruUjkbDSgmVF,Woo,https://api.spotify.com/v1/tracks/3HQcsqRjRdruUjkbDSgmVF,235586,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+4pAl7FkDMNBsjykPXo91B3,Needed Me,https://api.spotify.com/v1/tracks/4pAl7FkDMNBsjykPXo91B3,191600,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+7eDYNlBwRMeFOZHOZ95dZ1,"Yeah, I Said It",https://api.spotify.com/v1/tracks/7eDYNlBwRMeFOZHOZ95dZ1,133080,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+6RtzmszGXs32TRhv5zTKNM,Same Ol’ Mistakes,https://api.spotify.com/v1/tracks/6RtzmszGXs32TRhv5zTKNM,397093,False,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+7Jd5LgnSRQElW6FsTWVPzE,Never Ending,https://api.spotify.com/v1/tracks/7Jd5LgnSRQElW6FsTWVPzE,202506,False,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+5oO3drDxtziYU2H1X23ZIp,Love On The Brain,https://api.spotify.com/v1/tracks/5oO3drDxtziYU2H1X23ZIp,224000,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+1KnJwhZU3DIBe54Q4HPpIl,Higher,https://api.spotify.com/v1/tracks/1KnJwhZU3DIBe54Q4HPpIl,120626,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+6D2tzc8kRnZb7P1lNwMBLH,Close To You,https://api.spotify.com/v1/tracks/6D2tzc8kRnZb7P1lNwMBLH,223213,False,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+5LJz7kmFhLqB53tmVWxig5,Goodnight Gotham,https://api.spotify.com/v1/tracks/5LJz7kmFhLqB53tmVWxig5,88493,False,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+4UTizOdGljPIIbXtoXycAd,Pose,https://api.spotify.com/v1/tracks/4UTizOdGljPIIbXtoXycAd,144226,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+7BiELrM90hRxpozaIXbsLw,Sex With Me,https://api.spotify.com/v1/tracks/7BiELrM90hRxpozaIXbsLw,206400,True,5pKCCKE2ajJHZ9KAiaK11H,4UlGauD7ROb3YbVOFMgW5u,ANTI (Deluxe),album
+4lwclDelIroqwpVDAB1KV8,Consideration,https://api.spotify.com/v1/tracks/4lwclDelIroqwpVDAB1KV8,161066,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+5twdHhgbZP1ZObFjl4YEBf,James Joint,https://api.spotify.com/v1/tracks/5twdHhgbZP1ZObFjl4YEBf,72080,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+2m9EZH9i7bltC7eHp4y0yq,Kiss It Better,https://api.spotify.com/v1/tracks/2m9EZH9i7bltC7eHp4y0yq,253080,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+4XCvVFkuvKOqQBx5GxEoVZ,Work,https://api.spotify.com/v1/tracks/4XCvVFkuvKOqQBx5GxEoVZ,219320,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+2C6D3RtjanlaSXuL14tVLa,Desperado,https://api.spotify.com/v1/tracks/2C6D3RtjanlaSXuL14tVLa,186466,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+6512RHn4SzLGVHPxwE8foN,Woo,https://api.spotify.com/v1/tracks/6512RHn4SzLGVHPxwE8foN,235586,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+7CTrLpzsDFMjYy3b3kwJxL,Needed Me,https://api.spotify.com/v1/tracks/7CTrLpzsDFMjYy3b3kwJxL,191600,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+61I3t01fl69YpkdFgYwJNe,"Yeah, I Said It",https://api.spotify.com/v1/tracks/61I3t01fl69YpkdFgYwJNe,133053,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+0MK5KeFvwjUKs4wSsR4oDy,Same Ol’ Mistakes,https://api.spotify.com/v1/tracks/0MK5KeFvwjUKs4wSsR4oDy,397120,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+71WnpBWzi4bhjcqy6bKdj9,Never Ending,https://api.spotify.com/v1/tracks/71WnpBWzi4bhjcqy6bKdj9,202506,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+3KsznU1S6bN9sevZGp8kvS,Love On The Brain,https://api.spotify.com/v1/tracks/3KsznU1S6bN9sevZGp8kvS,224000,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+7ciR3K3DmHdHjhLZDCeod1,Higher,https://api.spotify.com/v1/tracks/7ciR3K3DmHdHjhLZDCeod1,120626,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+6pwWHX2xtRCC0fk7rhCrob,Close To You,https://api.spotify.com/v1/tracks/6pwWHX2xtRCC0fk7rhCrob,223213,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+4wEa3vvCjjEP0WvDY5EakX,Goodnight Gotham,https://api.spotify.com/v1/tracks/4wEa3vvCjjEP0WvDY5EakX,88493,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+73NJ4KX8YbNUZ9H8mPWtgo,Pose,https://api.spotify.com/v1/tracks/73NJ4KX8YbNUZ9H8mPWtgo,144226,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+42zB7BMrm1CGgOmHByu5ev,Sex With Me,https://api.spotify.com/v1/tracks/42zB7BMrm1CGgOmHByu5ev,206400,False,5pKCCKE2ajJHZ9KAiaK11H,4Q3ad90GtI0dxyE5ZishAS,ANTI (Deluxe),album
+4pp7VqgssnQtlLJg7LIrkO,Consideration,https://api.spotify.com/v1/tracks/4pp7VqgssnQtlLJg7LIrkO,161066,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+0430PIZJLy3Oo691nMeUH0,James Joint,https://api.spotify.com/v1/tracks/0430PIZJLy3Oo691nMeUH0,72080,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+49tG0W4vxwEQtpr0FfkzTQ,Kiss It Better,https://api.spotify.com/v1/tracks/49tG0W4vxwEQtpr0FfkzTQ,253080,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+5gZsEYaYvyi1sAVyuiXbDm,Work,https://api.spotify.com/v1/tracks/5gZsEYaYvyi1sAVyuiXbDm,219320,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+6ELYUjIai7bjtyUocOLCRE,Desperado,https://api.spotify.com/v1/tracks/6ELYUjIai7bjtyUocOLCRE,186466,False,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+3ueQAPksJqgen3LYyAVVgw,Woo,https://api.spotify.com/v1/tracks/3ueQAPksJqgen3LYyAVVgw,235586,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+4NlnpZPi5Z3r1uuyRglUhO,Needed Me,https://api.spotify.com/v1/tracks/4NlnpZPi5Z3r1uuyRglUhO,191600,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+1q35smJsSPtVl4aoc72wYN,"Yeah, I Said It",https://api.spotify.com/v1/tracks/1q35smJsSPtVl4aoc72wYN,133080,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+39hkTmV9qe7lB2PTA0KVbk,Same Ol’ Mistakes,https://api.spotify.com/v1/tracks/39hkTmV9qe7lB2PTA0KVbk,397093,False,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+7DJmn7YiwwpU2QTwycq6Lt,Never Ending,https://api.spotify.com/v1/tracks/7DJmn7YiwwpU2QTwycq6Lt,202506,False,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+31adnbEEiHwy6DDQ82F3HP,Love On The Brain,https://api.spotify.com/v1/tracks/31adnbEEiHwy6DDQ82F3HP,224000,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+390Zbl3vRpmvjyliv3cp96,Higher,https://api.spotify.com/v1/tracks/390Zbl3vRpmvjyliv3cp96,120626,True,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+2ZroUx8b9r7pCZOdmbiwPj,Close To You,https://api.spotify.com/v1/tracks/2ZroUx8b9r7pCZOdmbiwPj,223226,False,5pKCCKE2ajJHZ9KAiaK11H,48i37aZTC1prDr4EcpQeEa,ANTI,album
+2dHmlqBcJxPvVvAqhNco2B,Consideration,https://api.spotify.com/v1/tracks/2dHmlqBcJxPvVvAqhNco2B,161066,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+1vNqTqPg1LWSSxDmqmogCK,James Joint,https://api.spotify.com/v1/tracks/1vNqTqPg1LWSSxDmqmogCK,72080,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+7EGtNlu0towVa7NThMHtCv,Kiss It Better,https://api.spotify.com/v1/tracks/7EGtNlu0towVa7NThMHtCv,253080,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+2C95q2UTaZr1zj3xzj5uXC,Work,https://api.spotify.com/v1/tracks/2C95q2UTaZr1zj3xzj5uXC,219320,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+7M8suDZHDKipLqwnw03yoK,Desperado,https://api.spotify.com/v1/tracks/7M8suDZHDKipLqwnw03yoK,186466,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+4a6fOmBUlcLB6vQzVsg7vT,Woo,https://api.spotify.com/v1/tracks/4a6fOmBUlcLB6vQzVsg7vT,235586,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+639QPT9YkqIdgPkZMkatN7,Needed Me,https://api.spotify.com/v1/tracks/639QPT9YkqIdgPkZMkatN7,191600,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+2Brz5gB0BjbyzC7XJ57EEg,"Yeah, I Said It",https://api.spotify.com/v1/tracks/2Brz5gB0BjbyzC7XJ57EEg,133053,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+1kSvWu8AJrCKJ1vXdw6qrp,Same Ol’ Mistakes,https://api.spotify.com/v1/tracks/1kSvWu8AJrCKJ1vXdw6qrp,397120,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+0pxvzLB5AdbUdJbduq8COr,Never Ending,https://api.spotify.com/v1/tracks/0pxvzLB5AdbUdJbduq8COr,202506,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+4S1vnq8appsFS8xT5bnXgm,Love On The Brain,https://api.spotify.com/v1/tracks/4S1vnq8appsFS8xT5bnXgm,224000,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+6ODKKnwutY3Ko4dmoy4SVc,Higher,https://api.spotify.com/v1/tracks/6ODKKnwutY3Ko4dmoy4SVc,120626,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+2u9U8eutzcSJvJxbwkCksg,Close To You,https://api.spotify.com/v1/tracks/2u9U8eutzcSJvJxbwkCksg,223226,False,5pKCCKE2ajJHZ9KAiaK11H,3p39yDJtXkSw8QLMmB8yyD,ANTI,album
+6bqOolsv57aEE8Q3PixC7p,Phresh Out The Runway,https://api.spotify.com/v1/tracks/6bqOolsv57aEE8Q3PixC7p,222413,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+1kde2QG8s4pbZDiI8Fklzq,Diamonds,https://api.spotify.com/v1/tracks/1kde2QG8s4pbZDiI8Fklzq,225146,False,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+0zeXzdgaRKs2TiUYxNGDD0,Numb,https://api.spotify.com/v1/tracks/0zeXzdgaRKs2TiUYxNGDD0,205066,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+11gr64dfNTZ179JQICaRIc,Pour It Up,https://api.spotify.com/v1/tracks/11gr64dfNTZ179JQICaRIc,161200,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+4GIopCOy1bhVqVfAMiM81L,Loveeeeeee Song,https://api.spotify.com/v1/tracks/4GIopCOy1bhVqVfAMiM81L,256320,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+1fAQcrmQEPhAUfx9tzVfQ1,Jump,https://api.spotify.com/v1/tracks/1fAQcrmQEPhAUfx9tzVfQ1,264453,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+2lcsukpwDNXQu73W1IQfLr,Right Now,https://api.spotify.com/v1/tracks/2lcsukpwDNXQu73W1IQfLr,181626,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+5kgcqk2xzjHmB3GmO3yKmz,What Now,https://api.spotify.com/v1/tracks/5kgcqk2xzjHmB3GmO3yKmz,243093,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+4qaEPJ1S3GkITZRzuNgiwQ,Stay,https://api.spotify.com/v1/tracks/4qaEPJ1S3GkITZRzuNgiwQ,240706,False,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+16DOpNAr7bGZlMJvjVf5Ra,Nobody's Business,https://api.spotify.com/v1/tracks/16DOpNAr7bGZlMJvjVf5Ra,216293,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+477aE6KFSka7QOZDrZ9NVe,Love Without Tragedy / Mother Mary,https://api.spotify.com/v1/tracks/477aE6KFSka7QOZDrZ9NVe,418866,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+4KW3pEgOpXAzJLih3cAfK7,Get It Over With,https://api.spotify.com/v1/tracks/4KW3pEgOpXAzJLih3cAfK7,211893,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+5UsBzWkwj4Hp3sQmKHAiGt,No Love Allowed,https://api.spotify.com/v1/tracks/5UsBzWkwj4Hp3sQmKHAiGt,249133,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+5l6AmqCEZqYT0BQcEB3SEy,Lost In Paradise,https://api.spotify.com/v1/tracks/5l6AmqCEZqYT0BQcEB3SEy,215413,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+3JmvdozLe9TNpLGeCCghD2,Half Of Me,https://api.spotify.com/v1/tracks/3JmvdozLe9TNpLGeCCghD2,192853,True,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+0lqjeOKyWb4s9nvDlF68Ov,Diamonds,https://api.spotify.com/v1/tracks/0lqjeOKyWb4s9nvDlF68Ov,303533,False,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+14jjgYw4kKsexFJ1NtkMO7,Diamonds,https://api.spotify.com/v1/tracks/14jjgYw4kKsexFJ1NtkMO7,269453,False,5pKCCKE2ajJHZ9KAiaK11H,7yjQZX94GxVyqDTehxBejk,Unapologetic (Deluxe Version),album
+0bG8t2jr848lNbtT84iQux,Phresh Out The Runway,https://api.spotify.com/v1/tracks/0bG8t2jr848lNbtT84iQux,222413,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+6FkEkYhCB2hUI3hASA39O8,Diamonds,https://api.spotify.com/v1/tracks/6FkEkYhCB2hUI3hASA39O8,225146,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+2PEIfc4Hqvg9IwLPxAerhW,Numb,https://api.spotify.com/v1/tracks/2PEIfc4Hqvg9IwLPxAerhW,205066,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+6G4f9KqW6dO6FLB2ufAdTv,Pour It Up,https://api.spotify.com/v1/tracks/6G4f9KqW6dO6FLB2ufAdTv,161200,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+2ENQlLAaqcSGtAPRRwjvlQ,Loveeeeeee Song,https://api.spotify.com/v1/tracks/2ENQlLAaqcSGtAPRRwjvlQ,256320,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+4GAmGAnqBqBYyMUWFRYtGY,Jump,https://api.spotify.com/v1/tracks/4GAmGAnqBqBYyMUWFRYtGY,264453,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+5hC7ecoeg1GE1F755Z91c5,Right Now,https://api.spotify.com/v1/tracks/5hC7ecoeg1GE1F755Z91c5,181626,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+3FTtYvkEa4ef2Jg7evXwVL,What Now,https://api.spotify.com/v1/tracks/3FTtYvkEa4ef2Jg7evXwVL,243093,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+2QTcJmSgeLRtG1c82ZYHQc,Stay,https://api.spotify.com/v1/tracks/2QTcJmSgeLRtG1c82ZYHQc,240706,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+0Fa44LgIeMrbxKWCXtZwjr,Nobody's Business,https://api.spotify.com/v1/tracks/0Fa44LgIeMrbxKWCXtZwjr,216293,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+30gt5ZXVMAq4Op8LdNYBE6,Love Without Tragedy / Mother Mary,https://api.spotify.com/v1/tracks/30gt5ZXVMAq4Op8LdNYBE6,418880,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+6p4Ki26JFsOwZUOhNUs4gv,Get It Over With,https://api.spotify.com/v1/tracks/6p4Ki26JFsOwZUOhNUs4gv,211880,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+5lw2QIfJRUZ0VdtnZKCREi,No Love Allowed,https://api.spotify.com/v1/tracks/5lw2QIfJRUZ0VdtnZKCREi,249133,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+1NXNNUwK2esjAT7fPVUFjH,Lost In Paradise,https://api.spotify.com/v1/tracks/1NXNNUwK2esjAT7fPVUFjH,215413,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+0lSsYcjh7pXJObtDFzVhCP,Half Of Me,https://api.spotify.com/v1/tracks/0lSsYcjh7pXJObtDFzVhCP,192853,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+5kfmdnQvDiI7mrXA9I9NiW,Diamonds,https://api.spotify.com/v1/tracks/5kfmdnQvDiI7mrXA9I9NiW,303533,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+7uzX7sXPumEF2JEcK6TklG,Diamonds,https://api.spotify.com/v1/tracks/7uzX7sXPumEF2JEcK6TklG,269453,False,5pKCCKE2ajJHZ9KAiaK11H,4HsLpiXxuq5kxvMEALLyrh,Unapologetic (Deluxe Version),album
+2qJeiWIZhb3FqREoDPPFPu,Phresh Out The Runway,https://api.spotify.com/v1/tracks/2qJeiWIZhb3FqREoDPPFPu,222413,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+6O20JhBJPePEkBdrB5sqRx,Diamonds,https://api.spotify.com/v1/tracks/6O20JhBJPePEkBdrB5sqRx,225146,False,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+3Naj4ZtvX9VpVqJH5EKmJE,Numb,https://api.spotify.com/v1/tracks/3Naj4ZtvX9VpVqJH5EKmJE,205066,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+5r67bGhYXZNqk2m2Wupfmu,Pour It Up,https://api.spotify.com/v1/tracks/5r67bGhYXZNqk2m2Wupfmu,161200,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+5Mk1tgVrSuoWWwPVFNS0jB,Loveeeeeee Song,https://api.spotify.com/v1/tracks/5Mk1tgVrSuoWWwPVFNS0jB,256320,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+4IBihEaN04iwfX5I9sGFj9,Jump,https://api.spotify.com/v1/tracks/4IBihEaN04iwfX5I9sGFj9,264453,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+42Ow7PS3YtCWplolUUigDo,Right Now,https://api.spotify.com/v1/tracks/42Ow7PS3YtCWplolUUigDo,181626,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+2RWs4c3ZJ74WwXlVC3QCQN,What Now,https://api.spotify.com/v1/tracks/2RWs4c3ZJ74WwXlVC3QCQN,243093,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+0GNI8K3VATWBABQFAzBAYe,Stay,https://api.spotify.com/v1/tracks/0GNI8K3VATWBABQFAzBAYe,240706,False,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+6EAxaAk1eZx0aqqH4ff4rP,Nobody's Business,https://api.spotify.com/v1/tracks/6EAxaAk1eZx0aqqH4ff4rP,216293,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+7JpsDefhsnsWn1P6cYfzMr,Love Without Tragedy / Mother Mary,https://api.spotify.com/v1/tracks/7JpsDefhsnsWn1P6cYfzMr,418866,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+0GcIIPBfjcETGw1dJFwdhn,Get It Over With,https://api.spotify.com/v1/tracks/0GcIIPBfjcETGw1dJFwdhn,211893,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+2fv47VVvysXZPpT7xsdg7b,No Love Allowed,https://api.spotify.com/v1/tracks/2fv47VVvysXZPpT7xsdg7b,249133,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+0coJqb1j6Ym9OMz2i2MuyC,Lost In Paradise,https://api.spotify.com/v1/tracks/0coJqb1j6Ym9OMz2i2MuyC,215413,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+1L3wDPfRVoNSwt7gXoeIkl,Half Of Me,https://api.spotify.com/v1/tracks/1L3wDPfRVoNSwt7gXoeIkl,192853,True,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+4DjW2vouRxIHW2I0ZM7sYs,Diamonds - Dave Aude 100 Extended,https://api.spotify.com/v1/tracks/4DjW2vouRxIHW2I0ZM7sYs,303533,False,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+3S5ECEL7AEn0qhbZoefB8d,Diamonds - Gregor Salto Downtempo Remix,https://api.spotify.com/v1/tracks/3S5ECEL7AEn0qhbZoefB8d,269453,False,5pKCCKE2ajJHZ9KAiaK11H,5pLlGJrxuQO3jMoQe1XxZY,Unapologetic (Deluxe),album
+03cL2gI39EAUUEwpi3mIfr,Phresh Out The Runway,https://api.spotify.com/v1/tracks/03cL2gI39EAUUEwpi3mIfr,222413,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+7Kt59L2ZZGtOnIhvMwzG6f,Diamonds,https://api.spotify.com/v1/tracks/7Kt59L2ZZGtOnIhvMwzG6f,225146,False,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+5EW2czprA3Pf7ctNFkoOdZ,Numb,https://api.spotify.com/v1/tracks/5EW2czprA3Pf7ctNFkoOdZ,205066,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+76VtA90NKurNqaQpV126Ue,Pour It Up,https://api.spotify.com/v1/tracks/76VtA90NKurNqaQpV126Ue,161200,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+3DZQ6mzUkAdHqZWzqxBKIK,Loveeeeeee Song,https://api.spotify.com/v1/tracks/3DZQ6mzUkAdHqZWzqxBKIK,256320,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+5nUg4ZcXsUAPie730EgUYK,Jump,https://api.spotify.com/v1/tracks/5nUg4ZcXsUAPie730EgUYK,264453,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+28OX5qT45GZBuu8CNKBOj6,Right Now,https://api.spotify.com/v1/tracks/28OX5qT45GZBuu8CNKBOj6,181626,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+0aUWfpD3PlSv3FTTKcT2rN,What Now,https://api.spotify.com/v1/tracks/0aUWfpD3PlSv3FTTKcT2rN,243093,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+1dEy9Pl81QopSxNsPxXQxv,Stay,https://api.spotify.com/v1/tracks/1dEy9Pl81QopSxNsPxXQxv,240706,False,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+0qJWmTaT1qvCq0brgx8k2P,Nobody's Business,https://api.spotify.com/v1/tracks/0qJWmTaT1qvCq0brgx8k2P,216293,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+7I5iWxgkVGe4M9msr9BMp9,Love Without Tragedy / Mother Mary,https://api.spotify.com/v1/tracks/7I5iWxgkVGe4M9msr9BMp9,418866,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+3NsVe4VhqzB2M0R282HJJB,Get It Over With,https://api.spotify.com/v1/tracks/3NsVe4VhqzB2M0R282HJJB,211893,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+4hXLxBb41Xs1KzCD0gfsC8,No Love Allowed,https://api.spotify.com/v1/tracks/4hXLxBb41Xs1KzCD0gfsC8,249133,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+6jLGCgYpIqGJ1WI4x4hBXY,Lost In Paradise,https://api.spotify.com/v1/tracks/6jLGCgYpIqGJ1WI4x4hBXY,215413,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+4bXImuY3OhNXhbQbVLFHKp,Half Of Me,https://api.spotify.com/v1/tracks/4bXImuY3OhNXhbQbVLFHKp,192853,True,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+0brevRGa7ZTMpKp7tqWqLR,Diamonds - Dave Aude 100 Extended,https://api.spotify.com/v1/tracks/0brevRGa7ZTMpKp7tqWqLR,303533,False,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+1JwPEU7fF9qedJwr6fUCh6,Diamonds - Gregor Salto Downtempo Remix,https://api.spotify.com/v1/tracks/1JwPEU7fF9qedJwr6fUCh6,269453,False,5pKCCKE2ajJHZ9KAiaK11H,4eddbruVtOqw8khwxSH6H2,Unapologetic (Deluxe),album
+3ZhCUXoZxgFMmUuixdDiQS,Phresh Out The Runway,https://api.spotify.com/v1/tracks/3ZhCUXoZxgFMmUuixdDiQS,222413,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+5VmkzMD9SUgWOGWKG7GVcg,Diamonds,https://api.spotify.com/v1/tracks/5VmkzMD9SUgWOGWKG7GVcg,225146,False,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+05IyqbGd19RBeCNFMfnGQe,Numb,https://api.spotify.com/v1/tracks/05IyqbGd19RBeCNFMfnGQe,205066,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+3pKQIwxQBKO2In4l5EZmBO,Pour It Up,https://api.spotify.com/v1/tracks/3pKQIwxQBKO2In4l5EZmBO,161200,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+2ox4vr3lkUVpCR57bbWwLy,Loveeeeeee Song,https://api.spotify.com/v1/tracks/2ox4vr3lkUVpCR57bbWwLy,256320,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+72RJMmJFIxNgwM9pf8pqpY,Jump,https://api.spotify.com/v1/tracks/72RJMmJFIxNgwM9pf8pqpY,264453,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+6R9VF2uQtYwPNH0PxzedcX,Right Now,https://api.spotify.com/v1/tracks/6R9VF2uQtYwPNH0PxzedcX,181626,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+5I6KaV4xAc6ZYyOgEtp6dc,What Now,https://api.spotify.com/v1/tracks/5I6KaV4xAc6ZYyOgEtp6dc,243093,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+1AoKQqqkNTpmWqW8HKs8oL,Stay,https://api.spotify.com/v1/tracks/1AoKQqqkNTpmWqW8HKs8oL,240706,False,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+1gqrHlva1UviyDTl1Bobsj,Nobody's Business,https://api.spotify.com/v1/tracks/1gqrHlva1UviyDTl1Bobsj,216293,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+4FN1OcBACY1ac3C2WK9er5,Love Without Tragedy / Mother Mary,https://api.spotify.com/v1/tracks/4FN1OcBACY1ac3C2WK9er5,418866,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+36su1AYFo1yBgtT8kVV2nN,Get It Over With,https://api.spotify.com/v1/tracks/36su1AYFo1yBgtT8kVV2nN,211893,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+2q03jmzxgUJvghzGeafaWO,No Love Allowed,https://api.spotify.com/v1/tracks/2q03jmzxgUJvghzGeafaWO,249133,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+79KamO3qH7KJ5EGXcOqXn4,Lost In Paradise,https://api.spotify.com/v1/tracks/79KamO3qH7KJ5EGXcOqXn4,215760,True,5pKCCKE2ajJHZ9KAiaK11H,0XJya16l3K1J2dEwY19F8z,Unapologetic,album
+6JAJrnyEyqsE2NWmAjK6pJ,Phresh Out The Runway,https://api.spotify.com/v1/tracks/6JAJrnyEyqsE2NWmAjK6pJ,222413,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+5pDUMdIiW0rNLzFryqpC9j,Diamonds,https://api.spotify.com/v1/tracks/5pDUMdIiW0rNLzFryqpC9j,225146,False,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+7kjUzVpN8IAlG6OQdXjDvR,Numb,https://api.spotify.com/v1/tracks/7kjUzVpN8IAlG6OQdXjDvR,205066,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+1edP9mOIcf8lDzlO1ORbCr,Pour It Up,https://api.spotify.com/v1/tracks/1edP9mOIcf8lDzlO1ORbCr,161200,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+3Ij4WlSogXNafuyz6V2Xvl,Loveeeeeee Song,https://api.spotify.com/v1/tracks/3Ij4WlSogXNafuyz6V2Xvl,256320,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+1MYpR4qlg2WQT304NecqXp,Jump,https://api.spotify.com/v1/tracks/1MYpR4qlg2WQT304NecqXp,264453,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+3dK6PU05GCPr505YNOwV24,Right Now,https://api.spotify.com/v1/tracks/3dK6PU05GCPr505YNOwV24,181626,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+4RuOaq8cJzcA3UMdZ0dQCk,What Now,https://api.spotify.com/v1/tracks/4RuOaq8cJzcA3UMdZ0dQCk,243093,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+5rvSPYxUGL3Bu8BWtLj5Yw,Stay,https://api.spotify.com/v1/tracks/5rvSPYxUGL3Bu8BWtLj5Yw,240706,False,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+5PpxwDAoIGOcAe3iVgcAwt,Nobody's Business,https://api.spotify.com/v1/tracks/5PpxwDAoIGOcAe3iVgcAwt,216293,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+3V3MTfAMIgas5iC13xIFX1,Love Without Tragedy / Mother Mary,https://api.spotify.com/v1/tracks/3V3MTfAMIgas5iC13xIFX1,418866,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+1tJ3ja9lE1jiWj0FGrk9aG,Get It Over With,https://api.spotify.com/v1/tracks/1tJ3ja9lE1jiWj0FGrk9aG,211893,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+2SlLKFpeeI2uxQUFEdXzr8,No Love Allowed,https://api.spotify.com/v1/tracks/2SlLKFpeeI2uxQUFEdXzr8,249133,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+0FXI1DzlVxnv5GNQoscEmM,Lost In Paradise,https://api.spotify.com/v1/tracks/0FXI1DzlVxnv5GNQoscEmM,215760,True,5pKCCKE2ajJHZ9KAiaK11H,4XBfFj0WYyh5mBtU61EdyY,Unapologetic,album
+1LNsiNXYJFb9nizFWy8Lor,Phresh Out The Runway - Album Version (Edited),https://api.spotify.com/v1/tracks/1LNsiNXYJFb9nizFWy8Lor,222413,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+4JQSMg83F8qYwSBt5xOXsQ,Diamonds,https://api.spotify.com/v1/tracks/4JQSMg83F8qYwSBt5xOXsQ,225146,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+6SavoZyhZqZaOwv2m2Le1c,Numb - Album Version (Edited),https://api.spotify.com/v1/tracks/6SavoZyhZqZaOwv2m2Le1c,205066,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+2ZNcAjINatNtr3ZwQaTLWd,Pour It Up - Album Version (Edited),https://api.spotify.com/v1/tracks/2ZNcAjINatNtr3ZwQaTLWd,161200,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+3Myn5X4gqs0TqFWFMxyHak,Loveeeeeee Song - Album Version (Edited),https://api.spotify.com/v1/tracks/3Myn5X4gqs0TqFWFMxyHak,256320,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+4O3HRDIBChh0quFPhfDXd1,Jump - Album Version (Edited),https://api.spotify.com/v1/tracks/4O3HRDIBChh0quFPhfDXd1,264453,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+2yIuxJvRVnKrFOafuugHje,Right Now - Album Version (Edited),https://api.spotify.com/v1/tracks/2yIuxJvRVnKrFOafuugHje,181626,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+7yofGzP2N4cC8OzHDs1RVU,What Now - Album Version (Edited),https://api.spotify.com/v1/tracks/7yofGzP2N4cC8OzHDs1RVU,243093,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+4zzzZ1UNfr75ASG1lUE9L1,Stay - Album Version (Edited),https://api.spotify.com/v1/tracks/4zzzZ1UNfr75ASG1lUE9L1,240706,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+4rKGL79Uy3WgNd1SF2grGV,Nobody's Business - Album Version (Edited),https://api.spotify.com/v1/tracks/4rKGL79Uy3WgNd1SF2grGV,216293,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+2tJQteXiSUfSdEW7LfIeHY,Love Without Tragedy / Mother Mary - Album Version (Edited),https://api.spotify.com/v1/tracks/2tJQteXiSUfSdEW7LfIeHY,418880,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+1h7LbYPMtS2L74f8GbK4Cc,Get It Over With - Album Version (Edited),https://api.spotify.com/v1/tracks/1h7LbYPMtS2L74f8GbK4Cc,211880,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+6PPXmrFJnVxbguHF8oW4Dc,No Love Allowed - Album Version (Edited),https://api.spotify.com/v1/tracks/6PPXmrFJnVxbguHF8oW4Dc,249133,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+0KC1GgXs38dpEuYMqtyWb7,Lost In Paradise - Album Version (Edited),https://api.spotify.com/v1/tracks/0KC1GgXs38dpEuYMqtyWb7,215413,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+59qTiT5r4APNFPU1042gHe,Half Of Me - Album Version (Edited),https://api.spotify.com/v1/tracks/59qTiT5r4APNFPU1042gHe,192853,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+6eSaqh208RQgFsQnU2izZY,Diamonds - Dave Aude 100 Extended,https://api.spotify.com/v1/tracks/6eSaqh208RQgFsQnU2izZY,303533,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+5JwNovalAo6b7c0mud7lQV,Diamonds - Gregor Salto Downtempo Remix,https://api.spotify.com/v1/tracks/5JwNovalAo6b7c0mud7lQV,269453,False,5pKCCKE2ajJHZ9KAiaK11H,1ciAVKFdlpLi2eGDlXv6Bo,Unapologetic (Deluxe),album
+5C3XPfy7OSXHpclNc6UfN8,Phresh Out The Runway - Album Version (Edited),https://api.spotify.com/v1/tracks/5C3XPfy7OSXHpclNc6UfN8,222413,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+7i0jaBLpIADxqNbhAb4XFb,Diamonds,https://api.spotify.com/v1/tracks/7i0jaBLpIADxqNbhAb4XFb,225146,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+3gkigp03NzQ3eHB39uwW6F,Numb - Album Version (Edited),https://api.spotify.com/v1/tracks/3gkigp03NzQ3eHB39uwW6F,205066,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+2gtYsdzVF47HhN61NaULAv,Pour It Up - Album Version (Edited),https://api.spotify.com/v1/tracks/2gtYsdzVF47HhN61NaULAv,161200,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+7fSg2bktX4zvkY6VpArJJK,Loveeeeeee Song - Album Version (Edited),https://api.spotify.com/v1/tracks/7fSg2bktX4zvkY6VpArJJK,256320,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+3qVmMSEuMYCPdUVNrapUG9,Jump - Album Version (Edited),https://api.spotify.com/v1/tracks/3qVmMSEuMYCPdUVNrapUG9,264453,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+2jrJmE5g5YjgBj66As4Wgg,Right Now - Album Version (Edited),https://api.spotify.com/v1/tracks/2jrJmE5g5YjgBj66As4Wgg,181626,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+2Nm9ozosnDBfXRLOgMCNd2,What Now - Album Version (Edited),https://api.spotify.com/v1/tracks/2Nm9ozosnDBfXRLOgMCNd2,243093,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+2Yy0FsAV2I5VXU4xpph2WN,Stay - Album Version (Edited),https://api.spotify.com/v1/tracks/2Yy0FsAV2I5VXU4xpph2WN,240706,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+1nU9uMV52uwVjlh1vPE7MI,Nobody's Business - Album Version (Edited),https://api.spotify.com/v1/tracks/1nU9uMV52uwVjlh1vPE7MI,216293,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+72mdt7PXj2TGTIKaNNeKuX,Love Without Tragedy / Mother Mary - Album Version (Edited),https://api.spotify.com/v1/tracks/72mdt7PXj2TGTIKaNNeKuX,418880,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+2YQDSkzHLnJSuqNZMqr4Hz,Get It Over With - Album Version (Edited),https://api.spotify.com/v1/tracks/2YQDSkzHLnJSuqNZMqr4Hz,211880,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+4OfY1ClwqlDiQsRI3IdL30,No Love Allowed - Album Version (Edited),https://api.spotify.com/v1/tracks/4OfY1ClwqlDiQsRI3IdL30,249133,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+751YV4A25c5gXdXkBptKNg,Lost In Paradise - Album Version (Edited),https://api.spotify.com/v1/tracks/751YV4A25c5gXdXkBptKNg,215760,False,5pKCCKE2ajJHZ9KAiaK11H,5UDXzVwWnn3mDy3mTpQPYb,Unapologetic (Edited Version),album
+2tSFTvHVaLxkqXHaofPKQk,You Da One,https://api.spotify.com/v1/tracks/2tSFTvHVaLxkqXHaofPKQk,200013,True,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+6BZJSdeVicl1LEtWUQKP4o,Where Have You Been,https://api.spotify.com/v1/tracks/6BZJSdeVicl1LEtWUQKP4o,242680,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+3t4HeVfURZ5DuqMWz0Cmqg,We Found Love,https://api.spotify.com/v1/tracks/3t4HeVfURZ5DuqMWz0Cmqg,215226,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+7drd8T07dm62NkcYESlVhu,Talk That Talk,https://api.spotify.com/v1/tracks/7drd8T07dm62NkcYESlVhu,209600,True,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+76d2uYjE6NkCak2wyCAw5d,Cockiness (Love It),https://api.spotify.com/v1/tracks/76d2uYjE6NkCak2wyCAw5d,178026,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+7lUhtLCdqomO7jsZFkVcBW,Birthday Cake,https://api.spotify.com/v1/tracks/7lUhtLCdqomO7jsZFkVcBW,78200,True,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+0FhMrYMsry7Dua48m3cBTj,We All Want Love,https://api.spotify.com/v1/tracks/0FhMrYMsry7Dua48m3cBTj,237013,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+6cJoyuvyTeNrxhEhlNBmUv,Drunk On Love,https://api.spotify.com/v1/tracks/6cJoyuvyTeNrxhEhlNBmUv,212186,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+2BTC1hk3g6PLfyqe4zAitB,Roc Me Out,https://api.spotify.com/v1/tracks/2BTC1hk3g6PLfyqe4zAitB,209266,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+2GhqFR4Yw3GLpBNpnelfLi,Watch n' Learn,https://api.spotify.com/v1/tracks/2GhqFR4Yw3GLpBNpnelfLi,211000,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+7zhzzFiASS8lOHLrooBI1t,Farewell,https://api.spotify.com/v1/tracks/7zhzzFiASS8lOHLrooBI1t,256506,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+7rRsnDjtKcdrlEesPlw9CF,Red Lipstick,https://api.spotify.com/v1/tracks/7rRsnDjtKcdrlEesPlw9CF,217440,True,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+66IdTkn3exF8fdYqEeVeLc,Do Ya Thang,https://api.spotify.com/v1/tracks/66IdTkn3exF8fdYqEeVeLc,223413,True,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+44fouNXjaqIoI6PVgiGQqw,Fool In Love,https://api.spotify.com/v1/tracks/44fouNXjaqIoI6PVgiGQqw,255853,False,5pKCCKE2ajJHZ9KAiaK11H,3sW7wD2qdMjs7KncaOoIJ5,Talk That Talk (Deluxe),album
+2lx2uATZ8VTb5257DYXXXD,You Da One - Album Version (Edited),https://api.spotify.com/v1/tracks/2lx2uATZ8VTb5257DYXXXD,200013,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+7yIgJcn1aSgtFB13Razxvf,Where Have You Been,https://api.spotify.com/v1/tracks/7yIgJcn1aSgtFB13Razxvf,242680,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+1VMNFLpA6vDoBumvAGnJmf,We Found Love,https://api.spotify.com/v1/tracks/1VMNFLpA6vDoBumvAGnJmf,215226,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+6Mi5DbkHGiMwdJzGrbj8Rp,Talk That Talk - Album Version (Edited),https://api.spotify.com/v1/tracks/6Mi5DbkHGiMwdJzGrbj8Rp,209600,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+3DM9EMRuh2Ybg2wanSGLoH,Cockiness (Love It),https://api.spotify.com/v1/tracks/3DM9EMRuh2Ybg2wanSGLoH,178026,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+1ChI5Y67h3wstHuHO87KSC,Birthday Cake - Album Version (Edited),https://api.spotify.com/v1/tracks/1ChI5Y67h3wstHuHO87KSC,78200,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+38pnXasgMgBuWz1NfYn0gb,We All Want Love,https://api.spotify.com/v1/tracks/38pnXasgMgBuWz1NfYn0gb,237013,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+2grju2zUPI0ZlyVwF05PIh,Drunk On Love,https://api.spotify.com/v1/tracks/2grju2zUPI0ZlyVwF05PIh,212186,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+79AMVzA51fmBVnqyfQjQRs,Roc Me Out,https://api.spotify.com/v1/tracks/79AMVzA51fmBVnqyfQjQRs,209266,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+5sOs6pYp3nlzIzVp9AcJmq,Watch n' Learn,https://api.spotify.com/v1/tracks/5sOs6pYp3nlzIzVp9AcJmq,211000,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+4VuvclgtgLysRDGiqGFwjN,Farewell,https://api.spotify.com/v1/tracks/4VuvclgtgLysRDGiqGFwjN,256506,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+4NyhLhrCkSMsBnA63a6hZD,Red Lipstick - Album Version (Edited),https://api.spotify.com/v1/tracks/4NyhLhrCkSMsBnA63a6hZD,217440,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+5JTspwohWmhoDm7OpxnDg3,Do Ya Thang - Album Version (Edited),https://api.spotify.com/v1/tracks/5JTspwohWmhoDm7OpxnDg3,223413,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+6Ah7CcwL21Cexxop9C1i08,Fool In Love,https://api.spotify.com/v1/tracks/6Ah7CcwL21Cexxop9C1i08,255853,False,5pKCCKE2ajJHZ9KAiaK11H,51h0awzHny8CZmIS6ECabP,Talk That Talk (Deluxe),album
+2eLVIKSzVJOQQ43XPJrUcu,Phresh Out The Runway - Album Version (Edited),https://api.spotify.com/v1/tracks/2eLVIKSzVJOQQ43XPJrUcu,222413,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+2SWUcYoonlJPrj3u9QaA9f,Diamonds,https://api.spotify.com/v1/tracks/2SWUcYoonlJPrj3u9QaA9f,225146,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+2WCpFqa6Ei39kvNPEfGOIh,Numb - Album Version (Edited),https://api.spotify.com/v1/tracks/2WCpFqa6Ei39kvNPEfGOIh,205066,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+1t8sPwnuBnyLGPXx2VJ1ls,Pour It Up - Album Version (Edited),https://api.spotify.com/v1/tracks/1t8sPwnuBnyLGPXx2VJ1ls,161200,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+7wV9jjFtYi2iLeiUS5L0rC,Loveeeeeee Song - Album Version (Edited),https://api.spotify.com/v1/tracks/7wV9jjFtYi2iLeiUS5L0rC,256320,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+3eme17AXNfZgNfw6hhyeRf,Jump - Album Version (Edited),https://api.spotify.com/v1/tracks/3eme17AXNfZgNfw6hhyeRf,264453,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+3OjEcLsMv3zE5R1spaLCUf,Right Now - Album Version (Edited),https://api.spotify.com/v1/tracks/3OjEcLsMv3zE5R1spaLCUf,181626,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+4UeBrqrZs9CpIuUzl43Lou,What Now - Album Version (Edited),https://api.spotify.com/v1/tracks/4UeBrqrZs9CpIuUzl43Lou,243093,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+37j9kz1DdRZfZBRzuz72K8,Stay - Album Version (Edited),https://api.spotify.com/v1/tracks/37j9kz1DdRZfZBRzuz72K8,240706,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+5MkK3XjGsUcuB55xoM2jTf,Nobody's Business - Album Version (Edited),https://api.spotify.com/v1/tracks/5MkK3XjGsUcuB55xoM2jTf,216293,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+7eeDcWYdulwl9UjA8m3FzW,Love Without Tragedy / Mother Mary - Album Version (Edited),https://api.spotify.com/v1/tracks/7eeDcWYdulwl9UjA8m3FzW,418880,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+7jnsmL1uIIXG4ojXcrqPNV,Get It Over With - Album Version (Edited),https://api.spotify.com/v1/tracks/7jnsmL1uIIXG4ojXcrqPNV,211880,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+1Gd4fIpEOxCKSIkgN5nmQ5,No Love Allowed - Album Version (Edited),https://api.spotify.com/v1/tracks/1Gd4fIpEOxCKSIkgN5nmQ5,249133,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+6xlsU6ct6dRR8A5XBUOBQO,Lost In Paradise - Album Version (Edited),https://api.spotify.com/v1/tracks/6xlsU6ct6dRR8A5XBUOBQO,215413,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+6ImSOAOpYKWazbvFrSv5nx,Half Of Me - Album Version (Edited),https://api.spotify.com/v1/tracks/6ImSOAOpYKWazbvFrSv5nx,192853,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+3AFKtsIVtpJjcvcYcChrNI,Diamonds - Dave Aude 100 Extended,https://api.spotify.com/v1/tracks/3AFKtsIVtpJjcvcYcChrNI,303533,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+1frZS2j0RsR0nfYiw0lMLj,Diamonds - Gregor Salto Downtempo Remix,https://api.spotify.com/v1/tracks/1frZS2j0RsR0nfYiw0lMLj,269453,False,5pKCCKE2ajJHZ9KAiaK11H,0fuYENc2V5OhrMxu7VxRRr,Unapologetic (Deluxe Version [Edited]),album
+5cyClKxFb4JkV3auF1KXuC,Phresh Out The Runway - Album Version (Edited),https://api.spotify.com/v1/tracks/5cyClKxFb4JkV3auF1KXuC,222413,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+1z9kQ14XBSN0r2v6fx4IdG,Diamonds,https://api.spotify.com/v1/tracks/1z9kQ14XBSN0r2v6fx4IdG,225146,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+10SoEvWvAQ9pFj8oIglm9x,Numb - Album Version (Edited),https://api.spotify.com/v1/tracks/10SoEvWvAQ9pFj8oIglm9x,205066,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+1UyaDGT3DyL8Jfk5rYF8mj,Pour It Up - Album Version (Edited),https://api.spotify.com/v1/tracks/1UyaDGT3DyL8Jfk5rYF8mj,161200,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+5OiR5z4F0mbL9sM1F2Y5CE,Loveeeeeee Song - Album Version (Edited),https://api.spotify.com/v1/tracks/5OiR5z4F0mbL9sM1F2Y5CE,256320,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+46xuQN0TG3SUft3YQNLjGD,Jump - Album Version (Edited),https://api.spotify.com/v1/tracks/46xuQN0TG3SUft3YQNLjGD,264453,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+5ddyv4YSisOEdncyHXXNDs,Right Now - Album Version (Edited),https://api.spotify.com/v1/tracks/5ddyv4YSisOEdncyHXXNDs,181626,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+2aeKVjuLPaZWOLzFELylB5,What Now - Album Version (Edited),https://api.spotify.com/v1/tracks/2aeKVjuLPaZWOLzFELylB5,243093,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+789CxjEOtO76BVD1A9yJQH,Stay - Album Version (Edited),https://api.spotify.com/v1/tracks/789CxjEOtO76BVD1A9yJQH,240706,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+2zxXxiD0ZQJoBK6F5igwN0,Nobody's Business - Album Version (Edited),https://api.spotify.com/v1/tracks/2zxXxiD0ZQJoBK6F5igwN0,216293,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+0us10L6gwsv9k6y1uuaeXl,Love Without Tragedy / Mother Mary - Album Version (Edited),https://api.spotify.com/v1/tracks/0us10L6gwsv9k6y1uuaeXl,418880,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+2U7aH6NvhyP7CmOdO3bk45,Get It Over With - Album Version (Edited),https://api.spotify.com/v1/tracks/2U7aH6NvhyP7CmOdO3bk45,211880,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+52OIwoPU0L6NKzRNRFwX0l,No Love Allowed - Album Version (Edited),https://api.spotify.com/v1/tracks/52OIwoPU0L6NKzRNRFwX0l,249133,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+4OUWEHP6EroAafAZ2oPNHi,Lost In Paradise - Album Version (Edited),https://api.spotify.com/v1/tracks/4OUWEHP6EroAafAZ2oPNHi,215760,False,5pKCCKE2ajJHZ9KAiaK11H,0T23GvNaBUGtMKxZko8LQG,Unapologetic (Edited Version),album
+72NgSd9EDMrl0PY6vFLcrU,Phresh Out The Runway - Album Version (Edited),https://api.spotify.com/v1/tracks/72NgSd9EDMrl0PY6vFLcrU,222413,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+1YsVAWHMXM8kWkoNgNyRmW,Diamonds,https://api.spotify.com/v1/tracks/1YsVAWHMXM8kWkoNgNyRmW,225146,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+2cU0d9gJEgIMuAo2T63EI3,Numb - Album Version (Edited),https://api.spotify.com/v1/tracks/2cU0d9gJEgIMuAo2T63EI3,205066,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+6HXsvWzD8oIXlq2h4F5Twc,Pour It Up - Album Version (Edited),https://api.spotify.com/v1/tracks/6HXsvWzD8oIXlq2h4F5Twc,161200,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+11PW2Hm2bJImTPsqNqnmp4,Loveeeeeee Song - Album Version (Edited),https://api.spotify.com/v1/tracks/11PW2Hm2bJImTPsqNqnmp4,256320,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+03yvzSKd1ZpUOfNalcMsEm,Jump - Album Version (Edited),https://api.spotify.com/v1/tracks/03yvzSKd1ZpUOfNalcMsEm,264453,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+52lLu8IqnTVu2LHFxYCydC,Right Now - Album Version (Edited),https://api.spotify.com/v1/tracks/52lLu8IqnTVu2LHFxYCydC,181626,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+2R4zL8MCyT6DIKHwHvcpEF,What Now - Album Version (Edited),https://api.spotify.com/v1/tracks/2R4zL8MCyT6DIKHwHvcpEF,243093,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+1pzljhaLPzhPa8PRvY9KCP,Stay - Album Version (Edited),https://api.spotify.com/v1/tracks/1pzljhaLPzhPa8PRvY9KCP,240706,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+44ArKCCTlxEihtUlTPp2qX,Nobody's Business - Album Version (Edited),https://api.spotify.com/v1/tracks/44ArKCCTlxEihtUlTPp2qX,216293,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+2e2a5tVFF92L01FDok8vp1,Love Without Tragedy / Mother Mary - Album Version (Edited),https://api.spotify.com/v1/tracks/2e2a5tVFF92L01FDok8vp1,418880,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+46hp23LACMY2967iwSsH8R,Get It Over With - Album Version (Edited),https://api.spotify.com/v1/tracks/46hp23LACMY2967iwSsH8R,211880,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+4hGPhXcQc3RbF2CQ8ByEoY,No Love Allowed - Album Version (Edited),https://api.spotify.com/v1/tracks/4hGPhXcQc3RbF2CQ8ByEoY,249133,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+4eLxLRC4UPIKLjqrtRUQ91,Lost In Paradise - Album Version (Edited),https://api.spotify.com/v1/tracks/4eLxLRC4UPIKLjqrtRUQ91,215760,False,5pKCCKE2ajJHZ9KAiaK11H,023AUStvFJD8IzQqFeXRjB,Unapologetic (Standard Version [Edited]),album
+3Yt9lRtS5V4nbJnwcgFgvC,You Da One,https://api.spotify.com/v1/tracks/3Yt9lRtS5V4nbJnwcgFgvC,200013,True,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+3tyPOhuVnt5zd5kGfxbCyL,Where Have You Been,https://api.spotify.com/v1/tracks/3tyPOhuVnt5zd5kGfxbCyL,242680,False,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+0U10zFw4GlBacOy9VDGfGL,We Found Love,https://api.spotify.com/v1/tracks/0U10zFw4GlBacOy9VDGfGL,215226,False,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+57mKcbEq7nMqtJ4gqJvWcp,Talk That Talk,https://api.spotify.com/v1/tracks/57mKcbEq7nMqtJ4gqJvWcp,209600,True,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+3jYW03V9XeM2w7LJ0EXQDC,Cockiness (Love It),https://api.spotify.com/v1/tracks/3jYW03V9XeM2w7LJ0EXQDC,178026,False,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+4EfN6bixdOOgoLYR5C4cWo,Birthday Cake,https://api.spotify.com/v1/tracks/4EfN6bixdOOgoLYR5C4cWo,78200,True,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+3gMC76iTaypaOnuIZZvoiR,We All Want Love,https://api.spotify.com/v1/tracks/3gMC76iTaypaOnuIZZvoiR,237013,False,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+5A0Swrynpx7ALauNv08nBe,Drunk On Love,https://api.spotify.com/v1/tracks/5A0Swrynpx7ALauNv08nBe,212186,False,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+5CegsKtrwkX9HKb2YU5FOm,Roc Me Out,https://api.spotify.com/v1/tracks/5CegsKtrwkX9HKb2YU5FOm,209266,False,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+1ROCX1nquOZ5i05YfGysu0,Watch n' Learn,https://api.spotify.com/v1/tracks/1ROCX1nquOZ5i05YfGysu0,211000,False,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+2f5PEKVrNEHL1X0dtMNgYu,Farewell,https://api.spotify.com/v1/tracks/2f5PEKVrNEHL1X0dtMNgYu,256306,False,5pKCCKE2ajJHZ9KAiaK11H,1Kw1bVd07oRqcjrcjQKC8T,Talk That Talk,album
+51PJ2iCdBMEfxtVk3iy4p1,You Da One - Album Version (Edited),https://api.spotify.com/v1/tracks/51PJ2iCdBMEfxtVk3iy4p1,200013,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+5WQQIDU3HRaMyPkob8mpFb,Where Have You Been,https://api.spotify.com/v1/tracks/5WQQIDU3HRaMyPkob8mpFb,242680,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+6qn9YLKt13AGvpq9jfO8py,We Found Love,https://api.spotify.com/v1/tracks/6qn9YLKt13AGvpq9jfO8py,215226,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+7fHXacE8GZEvBTCWxwQUyL,Talk That Talk - Album Version (Edited),https://api.spotify.com/v1/tracks/7fHXacE8GZEvBTCWxwQUyL,209600,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+76iUSvF96Plu0764Jjc6xL,Cockiness (Love It),https://api.spotify.com/v1/tracks/76iUSvF96Plu0764Jjc6xL,178026,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+2holReRruSgsAE4xaYg55K,Birthday Cake - Album Version (Edited),https://api.spotify.com/v1/tracks/2holReRruSgsAE4xaYg55K,78200,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+0BB5Vm7HMEx0cOYi2TKglx,We All Want Love,https://api.spotify.com/v1/tracks/0BB5Vm7HMEx0cOYi2TKglx,237013,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+5slPHHHP6vsqtY4r977QLR,Drunk On Love,https://api.spotify.com/v1/tracks/5slPHHHP6vsqtY4r977QLR,212186,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+3KoQrLZBsSKgOjmUJPBera,Roc Me Out,https://api.spotify.com/v1/tracks/3KoQrLZBsSKgOjmUJPBera,209266,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+5KuTNU1Uyf8IN1kNTtxJqt,Watch n' Learn,https://api.spotify.com/v1/tracks/5KuTNU1Uyf8IN1kNTtxJqt,211000,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+7jMR0wJjq7RVBAKanKHd0Z,Farewell,https://api.spotify.com/v1/tracks/7jMR0wJjq7RVBAKanKHd0Z,256320,False,5pKCCKE2ajJHZ9KAiaK11H,2g1EakEaW7fPTZC6vBmBCn,Talk That Talk,album
+4FJ50kkBvVzJte01d6Gtt8,You Da One,https://api.spotify.com/v1/tracks/4FJ50kkBvVzJte01d6Gtt8,200013,True,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+72MrzrTEnNx8XRaWi2tOmq,Where Have You Been,https://api.spotify.com/v1/tracks/72MrzrTEnNx8XRaWi2tOmq,242680,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+6cZqFT5RanA70lmN9wuWzB,We Found Love,https://api.spotify.com/v1/tracks/6cZqFT5RanA70lmN9wuWzB,215226,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+6jjwwoPbQE9fW3XDakh8tm,Talk That Talk,https://api.spotify.com/v1/tracks/6jjwwoPbQE9fW3XDakh8tm,209600,True,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+6ShPW20OkAfOxmkX06Okle,Cockiness (Love It),https://api.spotify.com/v1/tracks/6ShPW20OkAfOxmkX06Okle,178026,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+0QE2xwQTW9Ibet8QyZjgZc,Birthday Cake,https://api.spotify.com/v1/tracks/0QE2xwQTW9Ibet8QyZjgZc,78200,True,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+18YSXhCY2w86t7yK1Hp7YB,We All Want Love,https://api.spotify.com/v1/tracks/18YSXhCY2w86t7yK1Hp7YB,237013,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+5ZrkuMtSWlsg8pLN06bVFg,Drunk On Love,https://api.spotify.com/v1/tracks/5ZrkuMtSWlsg8pLN06bVFg,212186,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+2V4mS5qU1zIrlL9IdpTeJA,Roc Me Out,https://api.spotify.com/v1/tracks/2V4mS5qU1zIrlL9IdpTeJA,209266,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+48LdAsqKHk5MQfql5eh6Fl,Watch n' Learn,https://api.spotify.com/v1/tracks/48LdAsqKHk5MQfql5eh6Fl,211000,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+7dBwdlk3s6BSEtm2GuijHO,Farewell,https://api.spotify.com/v1/tracks/7dBwdlk3s6BSEtm2GuijHO,256506,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+6lTzfT5xxLBs1xdcFm2uNE,Red Lipstick,https://api.spotify.com/v1/tracks/6lTzfT5xxLBs1xdcFm2uNE,217440,True,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+6wq3510yhQTyXvB5geZRzs,Do Ya Thang,https://api.spotify.com/v1/tracks/6wq3510yhQTyXvB5geZRzs,223413,True,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+6ikk2CSM0lLh4WpY3qH7IA,Fool In Love,https://api.spotify.com/v1/tracks/6ikk2CSM0lLh4WpY3qH7IA,255853,False,5pKCCKE2ajJHZ9KAiaK11H,3oQebIVUPY0IPiROZSIQFl,Talk That Talk (Deluxe Explicit),album
+1PreX9VMDisDVTsT5npNYl,You Da One - Album Version (Edited),https://api.spotify.com/v1/tracks/1PreX9VMDisDVTsT5npNYl,200013,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+4bps8fBnZ7pDIRFzDowABx,Where Have You Been,https://api.spotify.com/v1/tracks/4bps8fBnZ7pDIRFzDowABx,242680,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+51kWG9gQz5I7SkT4xzBRz8,We Found Love,https://api.spotify.com/v1/tracks/51kWG9gQz5I7SkT4xzBRz8,215226,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+6SmhwwLzf9Z4sDu855YIXS,Talk That Talk - Album Version (Edited),https://api.spotify.com/v1/tracks/6SmhwwLzf9Z4sDu855YIXS,209600,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+4SiLdKkYQ8jQCksLTSnxkE,Cockiness (Love It),https://api.spotify.com/v1/tracks/4SiLdKkYQ8jQCksLTSnxkE,178026,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+1wgkDNzkTvqhppUz1CH2ZE,Birthday Cake - Album Version (Edited),https://api.spotify.com/v1/tracks/1wgkDNzkTvqhppUz1CH2ZE,78200,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+2fX8CevywrebWk8TJpVVCb,We All Want Love,https://api.spotify.com/v1/tracks/2fX8CevywrebWk8TJpVVCb,237013,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+0CFEZa4QKTN3kIiziKx10k,Drunk On Love,https://api.spotify.com/v1/tracks/0CFEZa4QKTN3kIiziKx10k,212186,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+1JdxjxnAl5doGHUuBPw9Nb,Roc Me Out,https://api.spotify.com/v1/tracks/1JdxjxnAl5doGHUuBPw9Nb,209266,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+2OgDwhofzVEpeMrVXKYthQ,Watch n' Learn,https://api.spotify.com/v1/tracks/2OgDwhofzVEpeMrVXKYthQ,211000,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+7nBIkB5xklKr7VgY06L4hh,Farewell,https://api.spotify.com/v1/tracks/7nBIkB5xklKr7VgY06L4hh,256506,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+4BBLHL8FvEpDwhH8CukQvv,Red Lipstick - Album Version (Edited),https://api.spotify.com/v1/tracks/4BBLHL8FvEpDwhH8CukQvv,217440,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+5Gk2W5Y4rdMoJYFL9FUozv,Do Ya Thang - Album Version (Edited),https://api.spotify.com/v1/tracks/5Gk2W5Y4rdMoJYFL9FUozv,223413,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+6QrLxn03nq2Iibciuhs6Nk,Fool In Love,https://api.spotify.com/v1/tracks/6QrLxn03nq2Iibciuhs6Nk,255853,False,5pKCCKE2ajJHZ9KAiaK11H,3vFusDrqXiH9hV2VoHBEN5,Talk That Talk (Deluxe Edited),album
+4RTDO4MAa7wFF4FRJyELh2,You Da One,https://api.spotify.com/v1/tracks/4RTDO4MAa7wFF4FRJyELh2,200013,True,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+1uN0f4NqMDcReSwXO6PLuG,Where Have You Been,https://api.spotify.com/v1/tracks/1uN0f4NqMDcReSwXO6PLuG,242680,False,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+1zv3WFUbZ5vPxFq9I2jAU1,We Found Love,https://api.spotify.com/v1/tracks/1zv3WFUbZ5vPxFq9I2jAU1,215226,False,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+4MPEYbqv4tAuLagNNmukjy,Talk That Talk,https://api.spotify.com/v1/tracks/4MPEYbqv4tAuLagNNmukjy,209600,True,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+0MYDICcWLgLuuR2y4HkcQK,Cockiness (Love It),https://api.spotify.com/v1/tracks/0MYDICcWLgLuuR2y4HkcQK,178026,False,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+0QL7FwDv3jpYuTLgAFhilo,Birthday Cake,https://api.spotify.com/v1/tracks/0QL7FwDv3jpYuTLgAFhilo,78200,True,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+1VOxpDnkCwScF4BPaomqbH,We All Want Love,https://api.spotify.com/v1/tracks/1VOxpDnkCwScF4BPaomqbH,237013,False,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+36S9YafYy1oHZ4KmGVpBlD,Drunk On Love,https://api.spotify.com/v1/tracks/36S9YafYy1oHZ4KmGVpBlD,212186,False,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+72bRRPIyzvPOolgMECQfZ4,Roc Me Out,https://api.spotify.com/v1/tracks/72bRRPIyzvPOolgMECQfZ4,209266,False,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+79gCSH8a9z6hviNSp5W0IA,Watch n' Learn,https://api.spotify.com/v1/tracks/79gCSH8a9z6hviNSp5W0IA,211000,False,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+6x2OAOt7IoKPFPWI64jaTs,Farewell,https://api.spotify.com/v1/tracks/6x2OAOt7IoKPFPWI64jaTs,256306,False,5pKCCKE2ajJHZ9KAiaK11H,16ySsalaP2FiKVDlYCWnYh,Talk That Talk (Explicit),album
+6z7yl7OpKodARkIluw0xjP,You Da One - Album Version (Edited),https://api.spotify.com/v1/tracks/6z7yl7OpKodARkIluw0xjP,200013,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+6vrlFw1nHppgqqtin2K96B,Where Have You Been,https://api.spotify.com/v1/tracks/6vrlFw1nHppgqqtin2K96B,242680,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+6a2A8mUS9bXPakMAR7Dkkz,We Found Love,https://api.spotify.com/v1/tracks/6a2A8mUS9bXPakMAR7Dkkz,215226,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+0IFvGd5EWDbIETeRzIT8PW,Talk That Talk - Album Version (Edited),https://api.spotify.com/v1/tracks/0IFvGd5EWDbIETeRzIT8PW,209600,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+3r2NenbUi7fwAJk9f0iGi1,Cockiness (Love It),https://api.spotify.com/v1/tracks/3r2NenbUi7fwAJk9f0iGi1,178026,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+7pOV4ttFVVMnQxGozX1XvA,Birthday Cake - Album Version (Edited),https://api.spotify.com/v1/tracks/7pOV4ttFVVMnQxGozX1XvA,78200,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+5hunHxjUur7vZdi98yoWVX,We All Want Love,https://api.spotify.com/v1/tracks/5hunHxjUur7vZdi98yoWVX,237013,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+0U4GzK6Djoi78O6ZwUqxSa,Drunk On Love,https://api.spotify.com/v1/tracks/0U4GzK6Djoi78O6ZwUqxSa,212186,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+2cxmzTtmwZx1m368LVvFqu,Roc Me Out,https://api.spotify.com/v1/tracks/2cxmzTtmwZx1m368LVvFqu,209266,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+0fPDhpHGOa5PClB6kHNhfO,Watch n' Learn,https://api.spotify.com/v1/tracks/0fPDhpHGOa5PClB6kHNhfO,211000,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+2fZqwiEmhf90vPYmUB540t,Farewell,https://api.spotify.com/v1/tracks/2fZqwiEmhf90vPYmUB540t,256320,False,5pKCCKE2ajJHZ9KAiaK11H,3NIaVYUKV8huwXDotUG8GF,Talk That Talk (Edited),album
+0C4ejWmOTMv8vuYj85mf8m,S&M,https://api.spotify.com/v1/tracks/0C4ejWmOTMv8vuYj85mf8m,243533,False,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+5FTCKvxzqy72ceS4Ujux4N,What's My Name?,https://api.spotify.com/v1/tracks/5FTCKvxzqy72ceS4Ujux4N,263173,False,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+5Lm8wha7kmEuqyjJ237HNM,Cheers (Drink To That),https://api.spotify.com/v1/tracks/5Lm8wha7kmEuqyjJ237HNM,261746,False,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+2P9zV8VmHIPEYK2U2s0lUi,Fading,https://api.spotify.com/v1/tracks/2P9zV8VmHIPEYK2U2s0lUi,207253,False,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+0AH6WMe3OlAlUb5miXt2FQ,Only Girl (In The World),https://api.spotify.com/v1/tracks/0AH6WMe3OlAlUb5miXt2FQ,235493,False,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+0uIGzK6ukV0A5yWoCxPkRL,California King Bed,https://api.spotify.com/v1/tracks/0uIGzK6ukV0A5yWoCxPkRL,251613,False,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+1Bx0zEdVjkFlV27iKaePug,Man Down,https://api.spotify.com/v1/tracks/1Bx0zEdVjkFlV27iKaePug,267000,True,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+1gCWLA71vXQmINwo6WxH4t,Raining Men,https://api.spotify.com/v1/tracks/1gCWLA71vXQmINwo6WxH4t,224840,True,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+2irJDnniX31d1ja0a13q4p,Complicated,https://api.spotify.com/v1/tracks/2irJDnniX31d1ja0a13q4p,257506,True,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+0a2JCinEvl21WeWLJBt7hM,Skin,https://api.spotify.com/v1/tracks/0a2JCinEvl21WeWLJBt7hM,303733,False,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+6M6lsQB4OhqL41eld29PeC,Love The Way You Lie (Part II) - Pt. 2,https://api.spotify.com/v1/tracks/6M6lsQB4OhqL41eld29PeC,296226,True,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+2H7D14ayVHyNSNNGVmatyA,Only Girl (In The World) - The Bimbo Jones Club,https://api.spotify.com/v1/tracks/2H7D14ayVHyNSNNGVmatyA,437466,False,5pKCCKE2ajJHZ9KAiaK11H,7vN82vd1Vq44fjlhjfvHJp,Loud,album
+08Bfk5Y2S5fCxgxk371Eel,S&M,https://api.spotify.com/v1/tracks/08Bfk5Y2S5fCxgxk371Eel,243533,False,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+5xZtUAVUVfjBtVtMOgMkyy,What's My Name?,https://api.spotify.com/v1/tracks/5xZtUAVUVfjBtVtMOgMkyy,263173,False,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+46MDLc0Yip6xCMSsdePOAU,Cheers (Drink To That),https://api.spotify.com/v1/tracks/46MDLc0Yip6xCMSsdePOAU,261746,False,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+4m1KVtLSPNdH4NFbe8DKzO,Fading,https://api.spotify.com/v1/tracks/4m1KVtLSPNdH4NFbe8DKzO,207280,False,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+1VDXQhu7YGdbM6UeEIfsaX,Only Girl (In The World),https://api.spotify.com/v1/tracks/1VDXQhu7YGdbM6UeEIfsaX,235493,False,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+1ceiWukdMtlzOFhiAMluOj,California King Bed,https://api.spotify.com/v1/tracks/1ceiWukdMtlzOFhiAMluOj,251600,False,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+454h9zAIuTe1eJyw9iTnj4,Man Down,https://api.spotify.com/v1/tracks/454h9zAIuTe1eJyw9iTnj4,266986,True,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+7BlAMDuFJPwWu2rVtYwy6C,Raining Men,https://api.spotify.com/v1/tracks/7BlAMDuFJPwWu2rVtYwy6C,224853,True,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+1q9Pv0DN4veGxV29YYn5Ev,Complicated,https://api.spotify.com/v1/tracks/1q9Pv0DN4veGxV29YYn5Ev,257506,True,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+62YAKv9ak7mxrNRdhe7Pe9,Skin,https://api.spotify.com/v1/tracks/62YAKv9ak7mxrNRdhe7Pe9,303720,False,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+4aPRuTsiG7B4owTTF8Dm3U,Love The Way You Lie (Part II) - Pt. 2,https://api.spotify.com/v1/tracks/4aPRuTsiG7B4owTTF8Dm3U,296226,True,5pKCCKE2ajJHZ9KAiaK11H,6UHhmTLl9T1scRYLmpHcDX,Loud,album
+2u02eLj96Atd6TBxkH9YvN,S&M,https://api.spotify.com/v1/tracks/2u02eLj96Atd6TBxkH9YvN,243533,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+1pYKzfOlpHWtVUiEIu4Vn7,What's My Name?,https://api.spotify.com/v1/tracks/1pYKzfOlpHWtVUiEIu4Vn7,263173,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+3UhPDEuztObrsz7KOgkWi0,Cheers (Drink To That),https://api.spotify.com/v1/tracks/3UhPDEuztObrsz7KOgkWi0,261746,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+2jVdRLXmcc8Gdcgs7ZFYu0,Fading,https://api.spotify.com/v1/tracks/2jVdRLXmcc8Gdcgs7ZFYu0,207253,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+6jAsmDJI8iPhGWtS27kZ67,Only Girl (In The World),https://api.spotify.com/v1/tracks/6jAsmDJI8iPhGWtS27kZ67,235520,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+2dPOobBArCJotBAs0ThXqL,California King Bed,https://api.spotify.com/v1/tracks/2dPOobBArCJotBAs0ThXqL,251600,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+0AuUL648kZtyzlMHTfw9ZT,Man Down,https://api.spotify.com/v1/tracks/0AuUL648kZtyzlMHTfw9ZT,267000,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+3bIPdH1tOSjyigLI2r0oLS,Raining Men,https://api.spotify.com/v1/tracks/3bIPdH1tOSjyigLI2r0oLS,224840,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+0WrDh5bmovoE10XxgwCLla,Complicated,https://api.spotify.com/v1/tracks/0WrDh5bmovoE10XxgwCLla,257506,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+16PskMSZzMbwQLhEb07ZZo,Skin,https://api.spotify.com/v1/tracks/16PskMSZzMbwQLhEb07ZZo,303720,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+1UU7RbvH71Tpdkw3P6oykm,Love The Way You Lie (Part II) - Pt. 2,https://api.spotify.com/v1/tracks/1UU7RbvH71Tpdkw3P6oykm,296226,False,5pKCCKE2ajJHZ9KAiaK11H,35dJsQDEr549O5DTFUy3uM,Loud,album
+0xosb9d4wbXTYJ2FIbUm0h,Mad House - Chew Fu Straight Jacket Fix,https://api.spotify.com/v1/tracks/0xosb9d4wbXTYJ2FIbUm0h,132720,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+081sl4BpdkXcLciOJktR9y,Russian Roulette - Chew Fu Black Russian Fix,https://api.spotify.com/v1/tracks/081sl4BpdkXcLciOJktR9y,355213,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+78YZdpDXVJozZzcUE4JZa4,ROCKSTAR 101 - Chew Fu Teachers Pet Fix,https://api.spotify.com/v1/tracks/78YZdpDXVJozZzcUE4JZa4,267226,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+4dyosL2M4UsLfHwvOs4RrF,Wait Your Turn - Chew Fu Can't Wait No More Fix,https://api.spotify.com/v1/tracks/4dyosL2M4UsLfHwvOs4RrF,309293,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+4jOr9RdyQPV9uOWJxpwO5g,Photographs - Chew Fu 35mm Fix,https://api.spotify.com/v1/tracks/4jOr9RdyQPV9uOWJxpwO5g,359613,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+2iMd8V7X5IhINZpVVJaMgY,Rude Boy - Chew Fu Vitamin S Fix,https://api.spotify.com/v1/tracks/2iMd8V7X5IhINZpVVJaMgY,341573,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+0SfYKR2DPK2IpJILbDIE1G,Hard - Chew Fu Granite Fix,https://api.spotify.com/v1/tracks/0SfYKR2DPK2IpJILbDIE1G,328013,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+0QiRDNlX6hVO3f2fa6Jf3e,G4L - Chew Fu Guns In The Air Fix,https://api.spotify.com/v1/tracks/0QiRDNlX6hVO3f2fa6Jf3e,325946,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+7pI0BSkOux2TAXekXq1klO,Fire Bomb - Chew Fu Molotov Fix,https://api.spotify.com/v1/tracks/7pI0BSkOux2TAXekXq1klO,418520,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+3amm7BQQgcC0PwhpNIiayb,Stupid In Love - Chew Fu Small Room Fix,https://api.spotify.com/v1/tracks/3amm7BQQgcC0PwhpNIiayb,332746,True,5pKCCKE2ajJHZ9KAiaK11H,2wi0v7jPzYBCd99GggLtN8,Rated R: Remixed,album
+2MkdU2IPJkTpQF5EOGkk5K,Mad House - Chew Fu Straight Jacket Fix,https://api.spotify.com/v1/tracks/2MkdU2IPJkTpQF5EOGkk5K,132720,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+7juOmXaECeVQGfj3YxDRDc,Russian Roulette - Chew Fu Black Russian Fix,https://api.spotify.com/v1/tracks/7juOmXaECeVQGfj3YxDRDc,355826,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+6EUrKKXci0llzGaQmKz3Sf,ROCKSTAR 101 - Chew Fu Teachers Pet Fix,https://api.spotify.com/v1/tracks/6EUrKKXci0llzGaQmKz3Sf,267226,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+68CoF6Si3ArARVC4E64fQ7,Wait Your Turn - Chew Fu Can't Wait No More Fix,https://api.spotify.com/v1/tracks/68CoF6Si3ArARVC4E64fQ7,309626,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+61VuLTeWI1422RPUBLdxmx,Photographs - Chew Fu 35mm Fix,https://api.spotify.com/v1/tracks/61VuLTeWI1422RPUBLdxmx,359613,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+4giMjboKPnzYcdpqRuYGql,Rude Boy - Chew Fu Vitamin S Fix,https://api.spotify.com/v1/tracks/4giMjboKPnzYcdpqRuYGql,341573,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+47VUhHHpyJhYrPQXikNamL,Hard - Chew Fu Granite Fix,https://api.spotify.com/v1/tracks/47VUhHHpyJhYrPQXikNamL,328746,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+1cKBP2P4Ru73oAus04Rxxf,G4L - Chew Fu Guns In The Air Fix,https://api.spotify.com/v1/tracks/1cKBP2P4Ru73oAus04Rxxf,325973,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+3DIe6uAPQBJ4E80oBripSr,Fire Bomb - Chew Fu Molotov Fix,https://api.spotify.com/v1/tracks/3DIe6uAPQBJ4E80oBripSr,418520,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+1WPbVQ8n9PEAMWFuoDgKEd,Stupid In Love - Chew Fu Small Room Fix,https://api.spotify.com/v1/tracks/1WPbVQ8n9PEAMWFuoDgKEd,332746,False,5pKCCKE2ajJHZ9KAiaK11H,1tCeN5NE7tngdu0aRuvu7q,Rated R: Remixed,album
+7ySUcLPVX7KudhnmNcgY2D,S&M,https://api.spotify.com/v1/tracks/7ySUcLPVX7KudhnmNcgY2D,243600,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+6DkXLzBQT7cwXmTyzAB1DJ,What's My Name?,https://api.spotify.com/v1/tracks/6DkXLzBQT7cwXmTyzAB1DJ,263173,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+3DDBW9yeXc0RQUAOBeKYti,Cheers (Drink To That),https://api.spotify.com/v1/tracks/3DDBW9yeXc0RQUAOBeKYti,261746,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+3IS0tPKRymmP8GwXeuLNn2,Fading,https://api.spotify.com/v1/tracks/3IS0tPKRymmP8GwXeuLNn2,199666,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+2ENexcMEMsYk0rVJigVD3i,Only Girl (In The World),https://api.spotify.com/v1/tracks/2ENexcMEMsYk0rVJigVD3i,235493,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+1NpDnkQO0yWxTtntrC0UNz,California King Bed,https://api.spotify.com/v1/tracks/1NpDnkQO0yWxTtntrC0UNz,251600,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+0GLfodYacy3BJE7AI3A8en,Man Down,https://api.spotify.com/v1/tracks/0GLfodYacy3BJE7AI3A8en,267013,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+0XZHZslvxrByI84hFYWyXS,Raining Men,https://api.spotify.com/v1/tracks/0XZHZslvxrByI84hFYWyXS,224826,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+5lP1kCqAj1fh9pgJWOKyJa,Complicated,https://api.spotify.com/v1/tracks/5lP1kCqAj1fh9pgJWOKyJa,257506,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+1mjMXiWYKSJ5XmJCC0O9HJ,Skin,https://api.spotify.com/v1/tracks/1mjMXiWYKSJ5XmJCC0O9HJ,303733,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+4p2newrzzjPdXIENDqlCCW,Love The Way You Lie (Part II) - Pt. 2,https://api.spotify.com/v1/tracks/4p2newrzzjPdXIENDqlCCW,296293,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+3Tb4oHMR617zvLANuiV1ok,Only Girl (In The World) - The Bimbo Jones Radio,https://api.spotify.com/v1/tracks/3Tb4oHMR617zvLANuiV1ok,230426,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+25A1RmT5eh7C99KXfESRj5,Only Girl (In The World) - CCW Radio Mix,https://api.spotify.com/v1/tracks/25A1RmT5eh7C99KXfESRj5,221266,False,5pKCCKE2ajJHZ9KAiaK11H,5QG3tjE5L9F6O2vCAPph38,Loud (Japan Version),album
+4oHkmDMdEHbd0f1xWqyFC7,Mad House,https://api.spotify.com/v1/tracks/4oHkmDMdEHbd0f1xWqyFC7,94480,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+59QZX1c9i8Sn1hdVEF6IUi,Wait Your Turn,https://api.spotify.com/v1/tracks/59QZX1c9i8Sn1hdVEF6IUi,226560,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+3YJkAQNEhmCZGLdmPsu6Ye,Hard,https://api.spotify.com/v1/tracks/3YJkAQNEhmCZGLdmPsu6Ye,250600,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+6Wiyd7AsRdXvXGrxNkbqQ1,Stupid In Love,https://api.spotify.com/v1/tracks/6Wiyd7AsRdXvXGrxNkbqQ1,241440,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+5rXDTihGQ3TkYE3pmraAmH,ROCKSTAR 101,https://api.spotify.com/v1/tracks/5rXDTihGQ3TkYE3pmraAmH,238893,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+3rMsX63C0IZVnOT5LGYoTH,Russian Roulette,https://api.spotify.com/v1/tracks/3rMsX63C0IZVnOT5LGYoTH,227533,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+2igOUypyg58AbiUPgrlPNN,Fire Bomb,https://api.spotify.com/v1/tracks/2igOUypyg58AbiUPgrlPNN,257786,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+60jzFy6Nn4M0iD1d94oteF,Rude Boy,https://api.spotify.com/v1/tracks/60jzFy6Nn4M0iD1d94oteF,222920,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+4iywo4hJoh7MxFdMLFqYhN,Photographs,https://api.spotify.com/v1/tracks/4iywo4hJoh7MxFdMLFqYhN,286360,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+0gzpfUezy3wdktjC2SD1FY,G4L,https://api.spotify.com/v1/tracks/0gzpfUezy3wdktjC2SD1FY,239800,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+4YYHgF9dWyVSor0GtrBzdf,Te Amo,https://api.spotify.com/v1/tracks/4YYHgF9dWyVSor0GtrBzdf,208426,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+4MMOt2JI6OjKL9RPT97krd,Cold Case Love,https://api.spotify.com/v1/tracks/4MMOt2JI6OjKL9RPT97krd,364520,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+0llmtI6cBL8SomPTzAjtZ4,The Last Song,https://api.spotify.com/v1/tracks/0llmtI6cBL8SomPTzAjtZ4,256173,True,5pKCCKE2ajJHZ9KAiaK11H,7uGmyYwDFJbSc1xs4hkEs2,Rated R,album
+447L0mQf0Lmq3qiGz35Hno,Mad House,https://api.spotify.com/v1/tracks/447L0mQf0Lmq3qiGz35Hno,94480,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+6PsCn7ylW1DW5cgIYTtEP5,Wait Your Turn,https://api.spotify.com/v1/tracks/6PsCn7ylW1DW5cgIYTtEP5,226560,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+3XcCfweqtfMbZNbM7Mq0gg,Hard,https://api.spotify.com/v1/tracks/3XcCfweqtfMbZNbM7Mq0gg,250600,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+3wuw2WeaCj3A7TrwzeU3r9,Stupid In Love,https://api.spotify.com/v1/tracks/3wuw2WeaCj3A7TrwzeU3r9,241440,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+5h1W0CYmmJtFzbLCR2CIMk,ROCKSTAR 101,https://api.spotify.com/v1/tracks/5h1W0CYmmJtFzbLCR2CIMk,238853,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+2jrsywnNPJiJRIP2u21hmD,Russian Roulette,https://api.spotify.com/v1/tracks/2jrsywnNPJiJRIP2u21hmD,227573,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+45HO1Ms22THV7HrmPymPfT,Fire Bomb,https://api.spotify.com/v1/tracks/45HO1Ms22THV7HrmPymPfT,257720,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+4pvLiHkcQ3CSNFKT7HGSGM,Rude Boy,https://api.spotify.com/v1/tracks/4pvLiHkcQ3CSNFKT7HGSGM,222986,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+4yF9mpEbPMA0sjry5wJfGr,Photographs,https://api.spotify.com/v1/tracks/4yF9mpEbPMA0sjry5wJfGr,286360,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+4Ufn3UNYEo3vCKjuc6EE36,G4L,https://api.spotify.com/v1/tracks/4Ufn3UNYEo3vCKjuc6EE36,239800,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+5JRFsK0rLo80jpqjDmq4ak,Te Amo,https://api.spotify.com/v1/tracks/5JRFsK0rLo80jpqjDmq4ak,208426,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+020AsBaiXzuquNiHZxIKno,Cold Case Love,https://api.spotify.com/v1/tracks/020AsBaiXzuquNiHZxIKno,364520,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+67Pak4fb5GLNFAW7SaJtuq,The Last Song,https://api.spotify.com/v1/tracks/67Pak4fb5GLNFAW7SaJtuq,256173,False,5pKCCKE2ajJHZ9KAiaK11H,5oMe51UhWt6rsnkAvNRd1A,Rated R,album
+0ZxNf0T1OX51ABAHSnQxrE,Mad House,https://api.spotify.com/v1/tracks/0ZxNf0T1OX51ABAHSnQxrE,94480,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+3JX3yQqgedjFhe1zkLm2lD,Wait Your Turn,https://api.spotify.com/v1/tracks/3JX3yQqgedjFhe1zkLm2lD,226560,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+6o3XRhj40mqTnJsFuENsSz,Hard,https://api.spotify.com/v1/tracks/6o3XRhj40mqTnJsFuENsSz,250600,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+2tZIODp1jXjnoyVZy3ymBx,Stupid In Love,https://api.spotify.com/v1/tracks/2tZIODp1jXjnoyVZy3ymBx,241440,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+03mtIJroUEvBoMZP8BvWxd,ROCKSTAR 101,https://api.spotify.com/v1/tracks/03mtIJroUEvBoMZP8BvWxd,238893,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+1ZSpCn9Xwv5e7atgmG9Re1,Russian Roulette,https://api.spotify.com/v1/tracks/1ZSpCn9Xwv5e7atgmG9Re1,227533,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+5WorjWmXWpcLPFCimCcv1E,Fire Bomb,https://api.spotify.com/v1/tracks/5WorjWmXWpcLPFCimCcv1E,257786,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+180tYOjVoVnuDFZdTzgQRe,Rude Boy,https://api.spotify.com/v1/tracks/180tYOjVoVnuDFZdTzgQRe,222920,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+5MisfXEgNN0f2uH8SOdQpH,Photographs,https://api.spotify.com/v1/tracks/5MisfXEgNN0f2uH8SOdQpH,286360,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+3SHv4UZCGjWG8O0UwvgeGC,G4L,https://api.spotify.com/v1/tracks/3SHv4UZCGjWG8O0UwvgeGC,239800,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+5KI208gglUGjhAVUZKd5Dy,Te Amo,https://api.spotify.com/v1/tracks/5KI208gglUGjhAVUZKd5Dy,208426,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+0ms0tS4UcBT9H4u1jtFtcb,Cold Case Love,https://api.spotify.com/v1/tracks/0ms0tS4UcBT9H4u1jtFtcb,364520,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+6xcd0hougYOxwMZc8y7bl6,The Last Song,https://api.spotify.com/v1/tracks/6xcd0hougYOxwMZc8y7bl6,256173,True,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+7KSKaTdQWsOJ8h2i5N2kxG,Russian Roulette - Donni Hotwheel Remix,https://api.spotify.com/v1/tracks/7KSKaTdQWsOJ8h2i5N2kxG,181066,False,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+09z4oFv8sBxjYofKsuNwlu,Hole In My Head,https://api.spotify.com/v1/tracks/09z4oFv8sBxjYofKsuNwlu,245213,False,5pKCCKE2ajJHZ9KAiaK11H,0vPsFlDuF2KHY1fatzUM7X,Rated R (International Explicit Nokia Exclusive Version),album
+0aBMiPpNbTBMhQc7dchNru,Mad House,https://api.spotify.com/v1/tracks/0aBMiPpNbTBMhQc7dchNru,94626,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+2pMhbdqdeqY1YiakgF5IyW,Wait Your Turn,https://api.spotify.com/v1/tracks/2pMhbdqdeqY1YiakgF5IyW,226413,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+2UfPX8tQNGVknZhazVRJWC,Hard,https://api.spotify.com/v1/tracks/2UfPX8tQNGVknZhazVRJWC,250733,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+5YsxhEjT4RgczAaF21WhoV,Stupid In Love,https://api.spotify.com/v1/tracks/5YsxhEjT4RgczAaF21WhoV,241306,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+6aW5KwCjC1w9YbAWe5W8bm,ROCKSTAR 101,https://api.spotify.com/v1/tracks/6aW5KwCjC1w9YbAWe5W8bm,238906,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+1uTdbCB9ZAEsxfBj4bTFWb,Russian Roulette,https://api.spotify.com/v1/tracks/1uTdbCB9ZAEsxfBj4bTFWb,227640,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+0HljCD9lDUAA5JaU21zLkA,Fire Bomb,https://api.spotify.com/v1/tracks/0HljCD9lDUAA5JaU21zLkA,257666,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+7HX0BbzxG4Tx6icqCwO9DI,Rude Boy,https://api.spotify.com/v1/tracks/7HX0BbzxG4Tx6icqCwO9DI,222920,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+5hJuJpToUajHEF0ENNLKPw,Photographs,https://api.spotify.com/v1/tracks/5hJuJpToUajHEF0ENNLKPw,286453,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+5PBefDGvOk2GxQlZgaNnyr,G4L,https://api.spotify.com/v1/tracks/5PBefDGvOk2GxQlZgaNnyr,239706,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+3NO1A3V2fb4S2i3Qgbv1GB,Te Amo,https://api.spotify.com/v1/tracks/3NO1A3V2fb4S2i3Qgbv1GB,208426,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+4WOxTDxhpmcDoV7yQVNZ6s,Cold Case Love,https://api.spotify.com/v1/tracks/4WOxTDxhpmcDoV7yQVNZ6s,364520,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+3DIsvPyHg1z6ajYoVKyUDb,The Last Song,https://api.spotify.com/v1/tracks/3DIsvPyHg1z6ajYoVKyUDb,256173,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+3d95Rw3Rw8Dte7OGRKfRGK,Russian Roulette - Donni Hotwheel Remix,https://api.spotify.com/v1/tracks/3d95Rw3Rw8Dte7OGRKfRGK,181080,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+2CQxMJvGI713n5obInpG9s,Hole In My Head,https://api.spotify.com/v1/tracks/2CQxMJvGI713n5obInpG9s,244866,False,5pKCCKE2ajJHZ9KAiaK11H,46rApoaGDIV4oc15vk8hix,Rated R,album
+2b15tXMkdnrTVmTxktq7Tq,Umbrella - Seamus Haji & Paul Emanuel,https://api.spotify.com/v1/tracks/2b15tXMkdnrTVmTxktq7Tq,238240,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+3empwGY5IFwaRgn5R8r1p1,Disturbia - Jody den Broeder,https://api.spotify.com/v1/tracks/3empwGY5IFwaRgn5R8r1p1,231173,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+1XekHLeG9WMs4Iy4EbbvCR,Shut Up And Drive - The Wideboys,https://api.spotify.com/v1/tracks/1XekHLeG9WMs4Iy4EbbvCR,219040,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+29C7Be2EngZnn7GSK3dDOW,Don't Stop The Music - Jody den Broeder,https://api.spotify.com/v1/tracks/29C7Be2EngZnn7GSK3dDOW,189720,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+7tcxXaD8pklUOIUIrwVUhx,Take A Bow - Tony Moran & Warren Riggs,https://api.spotify.com/v1/tracks/7tcxXaD8pklUOIUIrwVUhx,242266,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+6Z5yD9aOtXVWYwIBQy6KPM,Breakin' Dishes - Soul Seekerz,https://api.spotify.com/v1/tracks/6Z5yD9aOtXVWYwIBQy6KPM,199640,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+6SqkAuZuDhQmY0p2s8T1m0,Hate That I Love You - K-Klassic,https://api.spotify.com/v1/tracks/6SqkAuZuDhQmY0p2s8T1m0,238613,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+1K0wvTTsG6UAGF68xUmUc3,Question Existing - The Wideboys,https://api.spotify.com/v1/tracks/1K0wvTTsG6UAGF68xUmUc3,220440,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+4whG6kcgqybA84DBbgwQkQ,Push Up On Me - Moto Blanco,https://api.spotify.com/v1/tracks/4whG6kcgqybA84DBbgwQkQ,208746,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+2JW9OfqzIrJDJGx0kVEC6n,Good Girl Gone Bad - Soul Seekerz,https://api.spotify.com/v1/tracks/2JW9OfqzIrJDJGx0kVEC6n,208213,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+6P1pkjx7cMDKBU1TP7CqHY,Say It - Soul Seekerz,https://api.spotify.com/v1/tracks/6P1pkjx7cMDKBU1TP7CqHY,260386,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+5oWg1pM72PUl0ytKEot3LP,Umbrella - Lindbergh Palace,https://api.spotify.com/v1/tracks/5oWg1pM72PUl0ytKEot3LP,233800,False,5pKCCKE2ajJHZ9KAiaK11H,6nT2WJS6WHH86XRgkSK8yC,Good Girl Gone Bad: The Remixes,album
+0a1vOhpBblkpapGPICEngd,Umbrella,https://api.spotify.com/v1/tracks/0a1vOhpBblkpapGPICEngd,275986,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+6uCyaL8Cd8EKIEYrmOF3k7,Push Up On Me,https://api.spotify.com/v1/tracks/6uCyaL8Cd8EKIEYrmOF3k7,195040,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+6ofGuwJO0iBddozGMruRiH,Don't Stop The Music,https://api.spotify.com/v1/tracks/6ofGuwJO0iBddozGMruRiH,267080,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+2NzJTWhIs8LIUSaWIK5pKP,Breakin' Dishes,https://api.spotify.com/v1/tracks/2NzJTWhIs8LIUSaWIK5pKP,200573,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+3UQ8Ajq7YWMeCO4VvQ2qr9,Shut Up And Drive,https://api.spotify.com/v1/tracks/3UQ8Ajq7YWMeCO4VvQ2qr9,212280,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+7F0429jN4uWI1QBFJIew0e,Hate That I Love You,https://api.spotify.com/v1/tracks/7F0429jN4uWI1QBFJIew0e,218946,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+6ldgZnNK2v8JEZpWUQyZe9,Say It,https://api.spotify.com/v1/tracks/6ldgZnNK2v8JEZpWUQyZe9,250666,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+20XqXtHv1JfetNCi6Ts6TA,Sell Me Candy,https://api.spotify.com/v1/tracks/20XqXtHv1JfetNCi6Ts6TA,165133,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+29jdY98rFWtpcUnqLjvS2S,Lemme Get That,https://api.spotify.com/v1/tracks/29jdY98rFWtpcUnqLjvS2S,221026,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+3DAGzFTBUUikHHJmkPnlLM,Rehab,https://api.spotify.com/v1/tracks/3DAGzFTBUUikHHJmkPnlLM,294720,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+1gyPTKZFGarBZP5I0CXifR,Question Existing,https://api.spotify.com/v1/tracks/1gyPTKZFGarBZP5I0CXifR,245493,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+2mTCGZ28mLfZ3Rzz9cRGhn,Good Girl Gone Bad,https://api.spotify.com/v1/tracks/2mTCGZ28mLfZ3Rzz9cRGhn,213213,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+0caphG80bqllBXD9qCbMlD,Disturbia,https://api.spotify.com/v1/tracks/0caphG80bqllBXD9qCbMlD,238626,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+5CrQCFYPScRFVSm3iwbtBU,Take A Bow,https://api.spotify.com/v1/tracks/5CrQCFYPScRFVSm3iwbtBU,229413,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+2W0BIP4T5IW0f1pjtVzp6a,If I Never See Your Face Again,https://api.spotify.com/v1/tracks/2W0BIP4T5IW0f1pjtVzp6a,198240,False,04gDigrS5kc9YWfZHwBETP,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+3Ilu6ey685ZyQuXXPy6Dyh,Hate That I Love You - Cantonese version,https://api.spotify.com/v1/tracks/3Ilu6ey685ZyQuXXPy6Dyh,221293,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+7h2sIp8w4Lb0S9Tg28bSSY,Hate That I Love You - Mandarin version,https://api.spotify.com/v1/tracks/7h2sIp8w4Lb0S9Tg28bSSY,223120,False,5pKCCKE2ajJHZ9KAiaK11H,5kc7uQ3wqfOEwbM0mjedZj,Good Girl Gone Bad: Reloaded,album
+1YiD079ne2nl9TEOrw43Gh,Umbrella,https://api.spotify.com/v1/tracks/1YiD079ne2nl9TEOrw43Gh,275986,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+1oaqBxfKa8Ahpt3vNItkYT,Push Up On Me,https://api.spotify.com/v1/tracks/1oaqBxfKa8Ahpt3vNItkYT,195026,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+0sJxBBRLNQpVBUZra6xzA5,Don't Stop The Music,https://api.spotify.com/v1/tracks/0sJxBBRLNQpVBUZra6xzA5,267093,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+060prGAlPii66FsTciI1Dv,Breakin' Dishes,https://api.spotify.com/v1/tracks/060prGAlPii66FsTciI1Dv,200573,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+3soXHXApJjqnoJEGLv0ULi,Shut Up And Drive,https://api.spotify.com/v1/tracks/3soXHXApJjqnoJEGLv0ULi,212280,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+4afJnWxTBH24FqSlsbj1aO,Hate That I Love You,https://api.spotify.com/v1/tracks/4afJnWxTBH24FqSlsbj1aO,218946,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+25mE2TPLxQwyaHh9l5ggkK,Say It,https://api.spotify.com/v1/tracks/25mE2TPLxQwyaHh9l5ggkK,250666,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+1aifbvYjkWVlT8ksmBTdsL,Sell Me Candy,https://api.spotify.com/v1/tracks/1aifbvYjkWVlT8ksmBTdsL,165133,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+5I3OyZJLueQNMD9YDycICi,Lemme Get That,https://api.spotify.com/v1/tracks/5I3OyZJLueQNMD9YDycICi,221026,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+4nuhZM7lQ9bksyELlNoNfo,Rehab,https://api.spotify.com/v1/tracks/4nuhZM7lQ9bksyELlNoNfo,294720,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+7usKKXb7O6rqyXZq1ukijG,Question Existing,https://api.spotify.com/v1/tracks/7usKKXb7O6rqyXZq1ukijG,245493,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+1uD21OQiO5pxIG5crSB6RO,Good Girl Gone Bad,https://api.spotify.com/v1/tracks/1uD21OQiO5pxIG5crSB6RO,213146,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+12DyPeTdrM5EDFplZCw3GJ,Hate That I Love You - Spanglish Version,https://api.spotify.com/v1/tracks/12DyPeTdrM5EDFplZCw3GJ,222640,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+1RVtY0LbckaCsoqdbBDR96,Disturbia,https://api.spotify.com/v1/tracks/1RVtY0LbckaCsoqdbBDR96,238640,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+7HOWDvDKIriIpMPoCITsHc,Take A Bow,https://api.spotify.com/v1/tracks/7HOWDvDKIriIpMPoCITsHc,229413,False,5pKCCKE2ajJHZ9KAiaK11H,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+3NRvOBa51ldSpTeigrRRVf,If I Never See Your Face Again,https://api.spotify.com/v1/tracks/3NRvOBa51ldSpTeigrRRVf,198253,False,04gDigrS5kc9YWfZHwBETP,1qd3tLkP0GWcoEqmkGpeVE,Good Girl Gone Bad: Reloaded,album
+49FYlytm3dAAraYgpoJZux,Umbrella,https://api.spotify.com/v1/tracks/49FYlytm3dAAraYgpoJZux,275986,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+6QV8q0qVAyHjlnqQ39YIe1,Push Up On Me,https://api.spotify.com/v1/tracks/6QV8q0qVAyHjlnqQ39YIe1,195040,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+0ByMNEPAPpOR5H69DVrTNy,Don't Stop The Music,https://api.spotify.com/v1/tracks/0ByMNEPAPpOR5H69DVrTNy,267080,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+46aZJc0z1HHHSFxaIRxYSP,Breakin' Dishes,https://api.spotify.com/v1/tracks/46aZJc0z1HHHSFxaIRxYSP,200573,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+4Tn2llBm1g0UlWctmgPL8Z,Shut Up And Drive,https://api.spotify.com/v1/tracks/4Tn2llBm1g0UlWctmgPL8Z,212280,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+7iu0WYLdo4yksKf3seaxzI,Hate That I Love You,https://api.spotify.com/v1/tracks/7iu0WYLdo4yksKf3seaxzI,218946,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+1X0PGm7eJoC6LmXpczYeaN,Say It,https://api.spotify.com/v1/tracks/1X0PGm7eJoC6LmXpczYeaN,250666,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+4jfHNGbzF5EGAD3iET0lsd,Sell Me Candy,https://api.spotify.com/v1/tracks/4jfHNGbzF5EGAD3iET0lsd,165133,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+1pKEXuXVJ9PCJj2BNrG4kX,Lemme Get That,https://api.spotify.com/v1/tracks/1pKEXuXVJ9PCJj2BNrG4kX,221026,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+5X3ahLXhOw16BR09GjYPUT,Rehab,https://api.spotify.com/v1/tracks/5X3ahLXhOw16BR09GjYPUT,294720,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+5hfB5nQatLPlqyKmVEpEVI,Question Existing,https://api.spotify.com/v1/tracks/5hfB5nQatLPlqyKmVEpEVI,245493,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+6g1B0hd6rlT3xP3mERUnz8,Good Girl Gone Bad,https://api.spotify.com/v1/tracks/6g1B0hd6rlT3xP3mERUnz8,213213,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+2VOomzT6VavJOGBeySqaMc,Disturbia,https://api.spotify.com/v1/tracks/2VOomzT6VavJOGBeySqaMc,238626,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+3goSVuTt3fDYDP6kRnFwuL,Take A Bow,https://api.spotify.com/v1/tracks/3goSVuTt3fDYDP6kRnFwuL,229413,False,5pKCCKE2ajJHZ9KAiaK11H,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+2CtaTmkRB7csW9XAZbWHDq,If I Never See Your Face Again,https://api.spotify.com/v1/tracks/2CtaTmkRB7csW9XAZbWHDq,198240,False,04gDigrS5kc9YWfZHwBETP,3JSWZWeTHF4HDGt5Eozdy7,Good Girl Gone Bad: Reloaded,album
+4ywSrmvEIb6cyr3ELUVCHb,Umbrella,https://api.spotify.com/v1/tracks/4ywSrmvEIb6cyr3ELUVCHb,275986,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+7jdB1E2EINREEmYFaZ2AUO,Push Up On Me,https://api.spotify.com/v1/tracks/7jdB1E2EINREEmYFaZ2AUO,195040,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+3YGg9SjRxud5aWsEjllwXZ,Don't Stop The Music,https://api.spotify.com/v1/tracks/3YGg9SjRxud5aWsEjllwXZ,267080,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+560oOrmNQMUyjICV9DsXZY,Breakin' Dishes,https://api.spotify.com/v1/tracks/560oOrmNQMUyjICV9DsXZY,200573,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+0vLKGJ2znvS28YimUEGIP2,Shut Up And Drive,https://api.spotify.com/v1/tracks/0vLKGJ2znvS28YimUEGIP2,212280,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+4PnD8mnkDCbFAegRx7b8fJ,Hate That I Love You,https://api.spotify.com/v1/tracks/4PnD8mnkDCbFAegRx7b8fJ,218946,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+5eSN0gIPPQid4fmcOaRCca,Say It,https://api.spotify.com/v1/tracks/5eSN0gIPPQid4fmcOaRCca,250666,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+6lxHQ38x0y9V93ftTiu4v9,Sell Me Candy,https://api.spotify.com/v1/tracks/6lxHQ38x0y9V93ftTiu4v9,165133,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+6KEa4pHjBvoYht2B6xjNVI,Lemme Get That,https://api.spotify.com/v1/tracks/6KEa4pHjBvoYht2B6xjNVI,221026,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+7vxC3652YfsKbCiJtKGSWz,Rehab,https://api.spotify.com/v1/tracks/7vxC3652YfsKbCiJtKGSWz,294720,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+1CMjszubDuwtTAxVnHPcM9,Question Existing,https://api.spotify.com/v1/tracks/1CMjszubDuwtTAxVnHPcM9,245493,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+11SxwBmE19ACmBpokmHgN5,Good Girl Gone Bad,https://api.spotify.com/v1/tracks/11SxwBmE19ACmBpokmHgN5,213146,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+6Jv7JCS9PnI6Oy51SyEWKL,Cry,https://api.spotify.com/v1/tracks/6Jv7JCS9PnI6Oy51SyEWKL,235226,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+2FNhisxqysinB376qORaJK,Disturbia,https://api.spotify.com/v1/tracks/2FNhisxqysinB376qORaJK,238573,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+6Cv09gbV6mHXshhiHE1JO4,Take A Bow,https://api.spotify.com/v1/tracks/6Cv09gbV6mHXshhiHE1JO4,229413,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+78WpbrDFPLXP01g5SnFjhr,If I Never See Your Face Again,https://api.spotify.com/v1/tracks/78WpbrDFPLXP01g5SnFjhr,198253,False,04gDigrS5kc9YWfZHwBETP,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+4UZvjS5Na11I02KepsiUou,Umbrella - Seamus Haji & Paul Emanuel Club Remix,https://api.spotify.com/v1/tracks/4UZvjS5Na11I02KepsiUou,387946,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+5dwwh9oIbOBpjKmAjX20v4,Shut Up And Drive - The Wideboys Club Mix,https://api.spotify.com/v1/tracks/5dwwh9oIbOBpjKmAjX20v4,396493,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+7zqS8UNfSRJW7MJbC2YSpO,Breakin' Dishes - Soul Seekerz Remix,https://api.spotify.com/v1/tracks/7zqS8UNfSRJW7MJbC2YSpO,364626,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+5avo3rt9HjcjMbsr2kouvW,Don't Stop The Music - The Wideboys Club Mix,https://api.spotify.com/v1/tracks/5avo3rt9HjcjMbsr2kouvW,397693,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+7y2Sm0RIr1NRdDtHzhb11n,Question Existing - The Wideboys Club Mix,https://api.spotify.com/v1/tracks/7y2Sm0RIr1NRdDtHzhb11n,372226,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+3LQ32HIDOBuKQFZ8tkLERV,Hate That I Love You - K-Klassic Remix,https://api.spotify.com/v1/tracks/3LQ32HIDOBuKQFZ8tkLERV,461333,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+1cqAvpv2yzMN74aoBdcvs8,Push Up On Me - Moto Blanco Club Mix,https://api.spotify.com/v1/tracks/1cqAvpv2yzMN74aoBdcvs8,397413,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+6FLy6JTZT4AU2HNyW3novl,Good Girl Gone Bad - Soul Seekerz Remix,https://api.spotify.com/v1/tracks/6FLy6JTZT4AU2HNyW3novl,395493,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+4BZTg3mOW0b7seiMNElZYP,Haunted - Steve Mac Classic Mix,https://api.spotify.com/v1/tracks/4BZTg3mOW0b7seiMNElZYP,385186,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+4pe2kbsCFSg3rx2OBNGwxm,Say It - Soul Seekerz Remix,https://api.spotify.com/v1/tracks/4pe2kbsCFSg3rx2OBNGwxm,348826,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+6NDL2UNrNFwlUjF3Aic1Nn,Cry - Steve Mac Classic Mix,https://api.spotify.com/v1/tracks/6NDL2UNrNFwlUjF3Aic1Nn,443080,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+2NxrsrvIg3GOWCdYZa2hl9,SOS - Digital Dog Remix,https://api.spotify.com/v1/tracks/2NxrsrvIg3GOWCdYZa2hl9,382920,False,5pKCCKE2ajJHZ9KAiaK11H,6JvLqvdgk4arICbmD6hw3J,Good Girl Gone Bad (Deluxe),album
+5i66xrvSh1MjjyDd6zcwgj,Umbrella,https://api.spotify.com/v1/tracks/5i66xrvSh1MjjyDd6zcwgj,275986,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+56y79SaKYtK2mTC9PqYzkR,Push Up On Me,https://api.spotify.com/v1/tracks/56y79SaKYtK2mTC9PqYzkR,195040,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+62LHRv9uwSNlBmByQF5jdE,Don't Stop The Music,https://api.spotify.com/v1/tracks/62LHRv9uwSNlBmByQF5jdE,267080,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+3XeHVrTKlricOyk5VsVKxd,Breakin' Dishes,https://api.spotify.com/v1/tracks/3XeHVrTKlricOyk5VsVKxd,200573,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+7AQjiRtIpr33P8UT98iveh,Shut Up And Drive,https://api.spotify.com/v1/tracks/7AQjiRtIpr33P8UT98iveh,212280,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+73sEFRISCOmunToMJtjuPS,Hate That I Love You,https://api.spotify.com/v1/tracks/73sEFRISCOmunToMJtjuPS,218946,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+6HZrKgFYVe3KTY5iHxBxCc,Say It,https://api.spotify.com/v1/tracks/6HZrKgFYVe3KTY5iHxBxCc,250666,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+6YHtKqMcOxgNvXmSqk40sC,Sell Me Candy,https://api.spotify.com/v1/tracks/6YHtKqMcOxgNvXmSqk40sC,165133,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+7EwCGW5jjBLRYpNxGfPFxz,Lemme Get That,https://api.spotify.com/v1/tracks/7EwCGW5jjBLRYpNxGfPFxz,221026,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+2su4VuRfiwInV18U5apPdi,Rehab,https://api.spotify.com/v1/tracks/2su4VuRfiwInV18U5apPdi,294720,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+4SGRBPZ4C3gJg8jk5tTi5S,Question Existing,https://api.spotify.com/v1/tracks/4SGRBPZ4C3gJg8jk5tTi5S,245493,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+1bac5HKoSkHq7oiopsRvIb,Good Girl Gone Bad,https://api.spotify.com/v1/tracks/1bac5HKoSkHq7oiopsRvIb,213146,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+2JVqzPVgf7ttSLUk3bMCY0,Cry,https://api.spotify.com/v1/tracks/2JVqzPVgf7ttSLUk3bMCY0,235226,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+30VrBsh1STRBoIrhQOAwzK,Disturbia,https://api.spotify.com/v1/tracks/30VrBsh1STRBoIrhQOAwzK,238573,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+39afswHs17v53znQm1gDTY,Take A Bow,https://api.spotify.com/v1/tracks/39afswHs17v53znQm1gDTY,229413,False,5pKCCKE2ajJHZ9KAiaK11H,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+1bHjmDhBA3F8xSau5BEa2U,If I Never See Your Face Again,https://api.spotify.com/v1/tracks/1bHjmDhBA3F8xSau5BEa2U,198253,False,04gDigrS5kc9YWfZHwBETP,1YhbfKnjrFgnYyWz6cn9mN,Good Girl Gone Bad,album
+2yPoXCs7BSIUrucMdK5PzV,Umbrella,https://api.spotify.com/v1/tracks/2yPoXCs7BSIUrucMdK5PzV,275986,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+5GTAYFWh8qSQZ6lnfjivSd,Push Up On Me,https://api.spotify.com/v1/tracks/5GTAYFWh8qSQZ6lnfjivSd,195040,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+1Jo0Zg7XlrA6z0mFTZVdkn,Don't Stop The Music,https://api.spotify.com/v1/tracks/1Jo0Zg7XlrA6z0mFTZVdkn,267080,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+5EcG8eMMlwkHRVa4aTR1qd,Breakin' Dishes,https://api.spotify.com/v1/tracks/5EcG8eMMlwkHRVa4aTR1qd,200573,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+4QdX6pmNnJ5cleufWQIr5D,Shut Up And Drive,https://api.spotify.com/v1/tracks/4QdX6pmNnJ5cleufWQIr5D,212280,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+669Zz4glMcFwFl1BRltkXP,Hate That I Love You,https://api.spotify.com/v1/tracks/669Zz4glMcFwFl1BRltkXP,219000,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+0cjXAeHjsVXykzROD2LPI2,Say It,https://api.spotify.com/v1/tracks/0cjXAeHjsVXykzROD2LPI2,250613,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+07yNHV78bFyq6HGMqisW6V,Sell Me Candy,https://api.spotify.com/v1/tracks/07yNHV78bFyq6HGMqisW6V,165133,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+0F3XNb8s9IJ9y5ztzIboEu,Lemme Get That,https://api.spotify.com/v1/tracks/0F3XNb8s9IJ9y5ztzIboEu,221026,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+4sFRAkllCBqIa08boTHX5A,Rehab,https://api.spotify.com/v1/tracks/4sFRAkllCBqIa08boTHX5A,294720,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+4xbnEZeBgAkt1qJdnB8gf0,Question Existing,https://api.spotify.com/v1/tracks/4xbnEZeBgAkt1qJdnB8gf0,245493,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+7cgdAq4wjcbpHp6JML8lV7,Good Girl Gone Bad,https://api.spotify.com/v1/tracks/7cgdAq4wjcbpHp6JML8lV7,215133,False,5pKCCKE2ajJHZ9KAiaK11H,4OXnPSBtZo8PBFiTOfuumP,Good Girl Gone Bad,album
+3sBmTwwsCwty2RNjOOvRVu,SOS,https://api.spotify.com/v1/tracks/3sBmTwwsCwty2RNjOOvRVu,238920,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+7txbzh10pVBKZmRXSjYxmR,Kisses Don't Lie,https://api.spotify.com/v1/tracks/7txbzh10pVBKZmRXSjYxmR,232880,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+1oh6hjPd82XlGFQGUh2Jfa,Unfaithful,https://api.spotify.com/v1/tracks/1oh6hjPd82XlGFQGUh2Jfa,226973,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+3e7aUCS2WvxoKx6LEDyOzh,We Ride,https://api.spotify.com/v1/tracks/3e7aUCS2WvxoKx6LEDyOzh,236680,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+5sAF1nTwI5yQgTFOJt4va5,Dem Haters - Album Version 2,https://api.spotify.com/v1/tracks/5sAF1nTwI5yQgTFOJt4va5,257866,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+3JjwpZtcIKUB1PuWkWFwhv,Final Goodbye,https://api.spotify.com/v1/tracks/3JjwpZtcIKUB1PuWkWFwhv,194200,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+2osdbXkJFUwPBLiZ4gRaEv,Break It Off,https://api.spotify.com/v1/tracks/2osdbXkJFUwPBLiZ4gRaEv,213373,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+5tXKUlGgXbUkr3cyT1ivWn,Crazy Little Thing Called Love,https://api.spotify.com/v1/tracks/5tXKUlGgXbUkr3cyT1ivWn,202080,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+5fqRwaqk8OdNlcTdljwBuf,Selfish Girl,https://api.spotify.com/v1/tracks/5fqRwaqk8OdNlcTdljwBuf,217173,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+49Uz3voxLt1j858YkOKn5R,P.S. (I'm Still Not Over You),https://api.spotify.com/v1/tracks/49Uz3voxLt1j858YkOKn5R,249906,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+53UymfuapLTAv8dGjOXrId,A Girl Like Me,https://api.spotify.com/v1/tracks/53UymfuapLTAv8dGjOXrId,256000,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+09U6PbyADhwuezLa2RgQ9r,A Million Miles Away,https://api.spotify.com/v1/tracks/09U6PbyADhwuezLa2RgQ9r,249680,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+22YsipUaMKQecPUy6uRNQn,If It's Lovin' That You Want - Pt. 2,https://api.spotify.com/v1/tracks/22YsipUaMKQecPUy6uRNQn,248506,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+34fYK1svsTZnI0UfyW8WH3,Pon de Replay - Full Phatt Remix,https://api.spotify.com/v1/tracks/34fYK1svsTZnI0UfyW8WH3,201226,False,5pKCCKE2ajJHZ9KAiaK11H,5pvFhFt1nzE8sCbm1wjNRv,A Girl Like Me,album
+653Dlx3XFh5SkaR7Vy0sYD,SOS,https://api.spotify.com/v1/tracks/653Dlx3XFh5SkaR7Vy0sYD,238920,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+4RtcyhnlBUElMMSbvrFxgQ,Kisses Don't Lie,https://api.spotify.com/v1/tracks/4RtcyhnlBUElMMSbvrFxgQ,232880,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+4sHQdZFZ8OfmEanFEB59Qe,Unfaithful,https://api.spotify.com/v1/tracks/4sHQdZFZ8OfmEanFEB59Qe,226973,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+4d03JFxUpaAg6VOq3viDf7,We Ride,https://api.spotify.com/v1/tracks/4d03JFxUpaAg6VOq3viDf7,236680,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+5XTAgS7DeJ7NZluuKvGYwk,Dem Haters - Album Version 2,https://api.spotify.com/v1/tracks/5XTAgS7DeJ7NZluuKvGYwk,257866,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+4yz7NEFfhuRa5BfchB9eKv,Final Goodbye,https://api.spotify.com/v1/tracks/4yz7NEFfhuRa5BfchB9eKv,194200,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+4QcN5qJd3RpiMgyGBi9uQk,Break It Off,https://api.spotify.com/v1/tracks/4QcN5qJd3RpiMgyGBi9uQk,213373,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+4P8g0PCahHLx17v2F0ktrg,Crazy Little Thing Called Love,https://api.spotify.com/v1/tracks/4P8g0PCahHLx17v2F0ktrg,202080,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+1lDpFiVZrHZmYKLad5Nh5h,Selfish Girl,https://api.spotify.com/v1/tracks/1lDpFiVZrHZmYKLad5Nh5h,217173,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+7ljpeeE7AWfZ71zzZMf7XH,P.S. (I'm Still Not Over You),https://api.spotify.com/v1/tracks/7ljpeeE7AWfZ71zzZMf7XH,249906,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+57k83vgjG7debAzio3EBOV,A Girl Like Me,https://api.spotify.com/v1/tracks/57k83vgjG7debAzio3EBOV,256000,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+60kVIyCkphfEMBcZZM1Efr,A Million Miles Away,https://api.spotify.com/v1/tracks/60kVIyCkphfEMBcZZM1Efr,249680,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+1RgY8qXTEDAljs7es64eKq,If It's Lovin' That You Want - Pt. 2,https://api.spotify.com/v1/tracks/1RgY8qXTEDAljs7es64eKq,248506,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+54EHGGKzf00CTQ8iCWxLT7,Pon de Replay - Full Phatt Remix,https://api.spotify.com/v1/tracks/54EHGGKzf00CTQ8iCWxLT7,201226,False,5pKCCKE2ajJHZ9KAiaK11H,4zek4XxlFX0v8QQKr0WVuS,A Girl Like Me,album
+30cSNer6TV8x2utjULVeQ5,SOS,https://api.spotify.com/v1/tracks/30cSNer6TV8x2utjULVeQ5,238920,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+4iHglWXfdxUzr3th07fcM8,Kisses Don't Lie,https://api.spotify.com/v1/tracks/4iHglWXfdxUzr3th07fcM8,232880,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+13xxBnXOuiBxVxJI458B0i,Unfaithful,https://api.spotify.com/v1/tracks/13xxBnXOuiBxVxJI458B0i,226973,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+0EIsxWGPSte4cAHZw5aXr4,We Ride,https://api.spotify.com/v1/tracks/0EIsxWGPSte4cAHZw5aXr4,236680,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+7jP5dRMrHFQZblvBftHhbZ,Dem Haters,https://api.spotify.com/v1/tracks/7jP5dRMrHFQZblvBftHhbZ,257866,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+0KR7jNki49r2qg7o8D2zIB,Final Goodbye,https://api.spotify.com/v1/tracks/0KR7jNki49r2qg7o8D2zIB,194200,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+4PgtB6Sul8WDTRZCe5e8St,Break It Off,https://api.spotify.com/v1/tracks/4PgtB6Sul8WDTRZCe5e8St,213373,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+2sc6MxpYcfgZHIxIlicbef,Crazy Little Thing Called Love,https://api.spotify.com/v1/tracks/2sc6MxpYcfgZHIxIlicbef,202080,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+1lz9t9I3zArRacD2Pud76x,Selfish Girl,https://api.spotify.com/v1/tracks/1lz9t9I3zArRacD2Pud76x,217173,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+2vDZwEDKyiaKOsvEQbaRcQ,P.S. (I'm Still Not Over You),https://api.spotify.com/v1/tracks/2vDZwEDKyiaKOsvEQbaRcQ,249906,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+7vtna7uCQMxYUM6sPx0L51,A Girl Like Me,https://api.spotify.com/v1/tracks/7vtna7uCQMxYUM6sPx0L51,256000,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+60mOfkGcqyS9UaRQsZ6e2C,A Million Miles Away,https://api.spotify.com/v1/tracks/60mOfkGcqyS9UaRQsZ6e2C,249680,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+0CVAvbscJvgDMrCjIYdTUi,If It's Lovin' That You Want - Pt. 2,https://api.spotify.com/v1/tracks/0CVAvbscJvgDMrCjIYdTUi,248506,False,5pKCCKE2ajJHZ9KAiaK11H,2JdjS6jjOml7nt7Yjo0nnh,A Girl Like Me,album
+3U3Ff8ZvL6oEu1r98gCCWW,Pon de Replay,https://api.spotify.com/v1/tracks/3U3Ff8ZvL6oEu1r98gCCWW,246960,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+6N2E4G9gU2yxJYJndMPsYE,Here I Go Again,https://api.spotify.com/v1/tracks/6N2E4G9gU2yxJYJndMPsYE,251133,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+1Q29dre9FCspRSarHziizl,If It's Lovin' That You Want,https://api.spotify.com/v1/tracks/1Q29dre9FCspRSarHziizl,208106,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+1vSCj9zmP1zRD1D5ruLUkR,"You Don't Love Me (No, No, No)",https://api.spotify.com/v1/tracks/1vSCj9zmP1zRD1D5ruLUkR,260066,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+6qP818GOEyGJqKgjcVmaKY,"That La, La, La",https://api.spotify.com/v1/tracks/6qP818GOEyGJqKgjcVmaKY,225866,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+6aalUBYaHgJhpQddU3dfiK,The Last Time,https://api.spotify.com/v1/tracks/6aalUBYaHgJhpQddU3dfiK,293226,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+3OrD6jmmkptTktRmgFrSBy,Willing To Wait,https://api.spotify.com/v1/tracks/3OrD6jmmkptTktRmgFrSBy,277973,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+6XEXjNW68lpjI3MAFt1JGn,Music Of The Sun,https://api.spotify.com/v1/tracks/6XEXjNW68lpjI3MAFt1JGn,236026,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+3tR5kWSu8tjmzvRztXpePE,Let Me,https://api.spotify.com/v1/tracks/3tR5kWSu8tjmzvRztXpePE,236400,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+3cEPrLOCwT5nsbmPSLk5QH,Rush,https://api.spotify.com/v1/tracks/3cEPrLOCwT5nsbmPSLk5QH,189573,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+0N6OOfYY4Zqli6WEsQY3IZ,There's A Thug In My Life,https://api.spotify.com/v1/tracks/0N6OOfYY4Zqli6WEsQY3IZ,198640,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+6Bi4pP0GBAWBjpY9PB5UJs,Now I Know,https://api.spotify.com/v1/tracks/6Bi4pP0GBAWBjpY9PB5UJs,300586,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+3RIox9DHab1P2BHQHuQk4O,Pon De Replay - Remix,https://api.spotify.com/v1/tracks/3RIox9DHab1P2BHQHuQk4O,217173,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+1PjeKX3GkxpbneIKZt7W2C,Should I - Bonus Track,https://api.spotify.com/v1/tracks/1PjeKX3GkxpbneIKZt7W2C,186613,False,5pKCCKE2ajJHZ9KAiaK11H,19UbDbyaYRW1U7lBMYO9F2,Music Of The Sun,album
+4TsmezEQVSZNNPv5RJ65Ov,Pon de Replay,https://api.spotify.com/v1/tracks/4TsmezEQVSZNNPv5RJ65Ov,246960,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+07gLSfLyr23jSKaUpRgR1B,Here I Go Again,https://api.spotify.com/v1/tracks/07gLSfLyr23jSKaUpRgR1B,251133,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+4x2rgtSFOI4hRvEvDj02KP,If It's Lovin' That You Want,https://api.spotify.com/v1/tracks/4x2rgtSFOI4hRvEvDj02KP,208106,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+7wWU3G8lAYNkro19o1wsBc,"You Don't Love Me (No, No, No)",https://api.spotify.com/v1/tracks/7wWU3G8lAYNkro19o1wsBc,260066,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+2JMgGr5NopZc83ECon8MBj,"That La, La, La",https://api.spotify.com/v1/tracks/2JMgGr5NopZc83ECon8MBj,225866,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+2IRrmMVmjvWQjJGY8LNuk5,The Last Time,https://api.spotify.com/v1/tracks/2IRrmMVmjvWQjJGY8LNuk5,293226,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+5b41vHKBfpyEbmkJu6wtlH,Willing To Wait,https://api.spotify.com/v1/tracks/5b41vHKBfpyEbmkJu6wtlH,277973,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+3vPkkIsaQ5NqOqvj7Ht8kR,Music Of The Sun,https://api.spotify.com/v1/tracks/3vPkkIsaQ5NqOqvj7Ht8kR,236026,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+4tAqWkqjX9bRSUpNcYviVf,Let Me,https://api.spotify.com/v1/tracks/4tAqWkqjX9bRSUpNcYviVf,236400,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+5NH2an2qR7M6ptHnxTfhP1,Rush,https://api.spotify.com/v1/tracks/5NH2an2qR7M6ptHnxTfhP1,189573,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+2O5rxPXXEFuvVfvsc85GX3,There's A Thug In My Life,https://api.spotify.com/v1/tracks/2O5rxPXXEFuvVfvsc85GX3,198640,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+35Hibmn6fwoYVifZ9TKnWg,Now I Know,https://api.spotify.com/v1/tracks/35Hibmn6fwoYVifZ9TKnWg,300586,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
+1B4iEymNy6FyU2I39ujzVw,Pon De Replay - Remix,https://api.spotify.com/v1/tracks/1B4iEymNy6FyU2I39ujzVw,217186,False,5pKCCKE2ajJHZ9KAiaK11H,4FyGpObwABjn0o8Tdp7AZz,Music Of The Sun,album
