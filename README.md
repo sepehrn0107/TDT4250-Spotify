@@ -15,4 +15,4 @@ INSERT PICTURE HERE
 
 We attempted to create an EMF forms using the data on the xmi file, but realized that the amount of work needed, the complexity of the project when the group consisted of two member, as well as the workload considering the exam period were too high to complete the project. We were able to create a form for the accounts objects and import sample data from the Spotify.xmi file, but could only show it in preview.
 
-!(TDT4250/Screenshot 2022-12-13 034808.png)
+!(TDT4250/Screenshot%202022-12-13%20034808.png)
